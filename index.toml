@@ -721,11 +721,3 @@ metafile = true
 file = "mods/yungs-bridges.pw.toml"
 hash = "5a75171138477185dc260864c89b78fbd18338256c7f8cf7d7dfb780ca80598d"
 metafile = true
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.9.1.zip"
-hash = "f2bc85507f8bfed274ede69fc7df3b6af3f35c5c98baea8bec95ebeb5f3eb79b"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.9.1.zip.txt"
-hash = "342b253d73bc35aca5fc3514a1bbb1439a2d1f64f5e0d2b0ef3bd2ed80a535c6"
