@@ -1,0 +1,7 @@
+{
+  "cameraDistance": 7.0,
+  "cameraHeightOffset": 3.0,
+  "cameraAngleDegrees": 40.0,
+  "renderMode": "automatic",
+  "debugLogging": false
+}

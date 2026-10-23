@@ -1,0 +1,556 @@
+[blueMap]
+
+# Controls whether Waystones' BlueMap integration should be loaded
+enabled = true
+
+# If enabled, sharestones will be tracked as markers on BlueMap.
+includeSharestones = true
+
+# If enabled, undiscovered waystones will be tracked as markers on BlueMap.
+includeUndiscoveredWaystones = false
+
+# If enabled, waystones will be tracked as markers on BlueMap
+includeWaystones = true
+
+[client]
+
+# If enabled, the text overlay on waystones will no longer always render at full brightness.
+disableTextGlow = false
+
+[compatibility]
+
+# If enabled, Waystones will add markers for waystones and sharestones to Dynmap.
+dynmap = true
+
+# Set to true to apply Waystones' entity teleport packet fix to all entity teleports, including vanilla and other mods.
+fixVanillaTeleportBug = false
+
+# If enabled, JourneyMap waypoints will be created for each activated waystone.
+journeyMap = true
+
+# If enabled, JourneyMap waypoints will only be created if the mod 'JourneyMap Integration' is not installed
+preferJourneyMapIntegrationMod = true
+
+[general]
+
+# Set to true to allow everyone to manage global waystones. Always true if defaultVisibility is GLOBAL.
+allowEveryoneToManageGlobalWaystones = false
+
+# Deprecated - use allowEveryoneToManageGlobalWaystones instead.
+allowedVisibilities = [  ]
+
+# Set to "GLOBAL" to have newly placed or found waystones be global by default.
+defaultVisibility = "ACTIVATION"
+
+# List of waystone origins that should prevent others from editing. PLAYER is special in that it allows only edits by the owner of the waystone.
+restrictedWaystones = [ "PLAYER" ]
+
+# The time in ticks it takes to use a scroll. This is the charge-up time when holding right-click.
+scrollUseTime = 32
+
+# The time in ticks that an entity has to be off of a target warp plate before it can teleport from that same warp plate again.
+warpPlateCooldownTime = 20
+
+# The time in ticks that it takes to use a warp plate. This is the time the player has to stand on top for.
+warpPlateUseTime = 15
+
+# The time in ticks that it takes to use a warp stone. This is the charge-up time when holding right-click.
+warpStoneUseTime = 32
+
+[inventoryButton]
+
+# The y position of the inventory button in the creative menu.
+creativeInventoryButtonX = 88
+
+# The y position of the inventory button in the creative menu.
+creativeInventoryButtonY = 33
+
+# Set to 'NONE' for no inventory button. Set to 'NEAREST' for an inventory button that teleports to the nearest waystone. Set to 'ANY' for an inventory button that opens the waystone selection menu. Set to a waystone name for an inventory button that teleports to a specifically named waystone.
+inventoryButton = ""
+
+# The x position of the inventory button in the inventory.
+inventoryButtonX = 58
+
+# The y position of the inventory button in the inventory.
+inventoryButtonY = 60
+
+[teleports]
+
+# Set to false to simply disable all cooldowns. See warpRequirements for more fine-grained control.
+enableCooldowns = true
+
+# Set to false to simply disable all xp costs. See warpRequirements for more fine-grained control.
+enableCosts = true
+
+# Set to false to disable durability loss on warp stones.
+enableDurability = true
+
+# Set to true to enable warp modifier items for applying status effects on teleports.
+enableModifiers = true
+
+# List of entities that cannot be teleported, either as pet, leashed, or on warp plates.
+entityDenyList = [ "minecraft:wither" ]
+
+# Set to ENABLED to have leashed mobs teleport with you. Set to SAME_DIMENSION to have leashed mobs teleport with you only if you're not changing dimensions. Set to DISABLED to disable.
+transportLeashed = "ENABLED"
+
+# Set to ENABLED to have nearby pets teleport with you. Set to SAME_DIMENSION to have nearby pets teleport with you only if you're not changing dimensions. Set to DISABLED to disable.
+transportPets = "DISABLED"
+
+# List of warp requirements with comma-separated parameters in parentheses. Conditions can be defined as comma-separated list in square brackets. Will be applied in order.
+warpRequirements = [ 
+    "[is_not_interdimensional] scaled_add_xp_cost(distance, 0.01)", 
+    "[is_interdimensional] add_xp_cost(27)", 
+    "[source_is_warp_plate] multiply_xp_cost(0)", 
+    "[source_is_scroll] multiply_xp_cost(0)", 
+    "[target_is_global] multiply_xp_cost(0)", 
+    "[target_is_fleeting_memorial] multiply_xp_cost(0)", 
+    "min_xp_cost(0)", 
+    "max_xp_cost(27)", 
+    "[source_is_inventory_button] add_cooldown(inventory_button, 300)"
+]
+
+[worldGen]
+
+# Approximate chunk distance between wild waystones being generated. Set to 0 to disable generation.
+chunksBetweenWildWaystones = 25
+
+# Set to 'PRESET_FIRST' to first use names from the nameGenerationPresets. Set to 'PRESET_ONLY' to use only those custom names. Set to 'MIXED' to have some waystones use custom names, and others random names.
+nameGenerationMode = "PRESET_FIRST"
+
+# These names will be used for the PRESET name generation mode. See the nameGenerationMode option for more info.
+nameGenerationPresets = [
+    "Almatari Pale Bloom Vale",
+    "Almatari Steppe",
+    "Almatari's Circle",
+    "Almatari's Glen",
+    "Almatari's Heartwood Glade",
+    "Almatari's Moonlit Grove",
+    "Almatari's Reach",
+    "Almatari's Witchwood",
+    "Arrogreel Steppe",
+    "Arrogreel's Reach",
+    "Brightroot Grove",
+    "Brightroot Vale",
+    "Brightroot's Radiant Glade",
+    "Brightroot's Vigil",
+    "Prince Ryann's Rest",
+    "Cinnie's Cinnamon Glen",
+    "Cinnie's Meadow",
+    "Cinnie's Spice Meadow",
+    "Cinnie's Sugarspice Vale",
+    "Dallas Downs",
+    "Dallas Flats",
+    "Dim's Brushstroke Vale",
+    "Dim's Easel",
+    "Dim's Inkwell Fen",
+    "Dim's Palette Meadow",
+    "Dim's Rest",
+    "Dimlight Marsh",
+    "Dishonoured Barrens",
+    "Dishonoured Moors",
+    "Eden Vale",
+    "Eden's Avali Aerie",
+    "Eden's Frostfeather Roost",
+    "Eden's Reach",
+    "Eden's Snowdrift Rest",
+    "Eden's Snowfeather Glade",
+    "Fae's Glade",
+    "Fae's Candlewick Rest",
+    "Fae's Cozy Hollow",
+    "Fae's Maple Glade",
+    "Felsparkles' Festering Flats",
+    "Felsparkles' Foul Vale",
+    "Felsparkles' Gloomhollow",
+    "Felsparkles' Rancid Reach",
+    "Felsparkles' Rotten Fen",
+    "Felsparkles' Stinkbog",
+    "Fox Hollow",
+    "Fox's Banner Fields",
+    "Fox's Lancepoint",
+    "Fox's Oathsworn Rest",
+    "Foxfire Fields",
+    "Sir Fox's Rest",
+    "Hexxy Moors",
+    "Hexxy's Glade",
+    "Iycedrem Steppe",
+    "Iycedrem's Rest",
+    "Keelay Shoals",
+    "Keelay's Cove",
+    "Kizei's Blue Sky Steppe",
+    "Kizei's Purple Reef",
+    "Kizei's Sharkfin Shallows",
+    "Kizei's Tealwater Cove",
+    "Kizei's Violet Tide",
+    "Lawl's Crossing",
+    "Lawlwood Glade",
+    "Nermish Folly",
+    "Nermish Moors",
+    "Para's Otter Shallows",
+    "Para's Pebble Shore",
+    "Para's Perch",
+    "Para's Riverslide Cove",
+    "Para's Void Fen",
+    "Paravoid Hollow",
+    "Paravoid's Reach",
+    "Pickle Marsh",
+    "Pickle's Crossing",
+    "Quack Marsh",
+    "Quack Shallows",
+    "Quack's Loot Council Glade",
+    "Quack's Pondside Raid Camp",
+    "Quack's Raid Night Flats",
+    "Quack's Wipe Recovery Moor",
+    "Ren's Overlook",
+    "Renwood Vale",
+    "Rildaan Downs",
+    "Rildaan's Brainwave Vale",
+    "Rildaan's Lucky Break Fen",
+    "Rildaan's Lucky Fluke Flats",
+    "Rildaan's Reach",
+    "Snaggletooth Barrens",
+    "Snaggletooth Cove",
+    "Zalduran's Ancestral Lands",
+    "Zalduran's Boast",
+    "Zalduran's Drumbeat",
+    "Zalduran's Loa Shrine",
+    "Zalduran Bog",
+    "Zee's Coil Hollow",
+    "Zee's Landing",
+    "Zee's Questline Crossing",
+    "Zee's Respawn",
+    "Zee's Serpentine Fen",
+    "Afflicted Moors",
+    "Alph Foothills",
+    "Anduin's Corner",
+    "Aqua Shoals",
+    "Arathi Highlands",
+    "Asado Desert",
+    "Ascalon Foothills",
+    "Ascalon Hollow",
+    "Ascalon Moors",
+    "Ascalon Valley",
+    "Ash's Trail",
+    "Ashbringer's Rest",
+    "Ashenvale",
+    "Ashenvale Glade",
+    "Asuran Reach",
+    "Atiesh Hollow",
+    "Aurene's Fang",
+    "Auric Basin",
+    "Azshara",
+    "Azshara Shoals",
+    "Azsuna",
+    "Blasted Lands",
+    "Blazeridge Steppes",
+    "Bloodelf Glade",
+    "Bloodtide Coast",
+    "Bolvar's Vigil",
+    "Borean Tundra",
+    "Braham's Hollow",
+    "Brann's Hollow",
+    "Brisban Thicket",
+    "Brisban Wildlands",
+    "Brock's Boulder",
+    "Bug Catcher's Meadow",
+    "Burning Steppes",
+    "Cairne's Plain",
+    "Caithe's Glade",
+    "Caledon Forest",
+    "Caledon Glade",
+    "Canach's Folly",
+    "Casseroya Lake",
+    "Cataclysm Flats",
+    "Celadon Grove",
+    "Centaur Plains",
+    "Cerulean Shoals",
+    "Champion's Rest",
+    "Charizard's Roost",
+    "Charr Badlands",
+    "Charr Steppe",
+    "Cherrygrove Meadow",
+    "Chromie's Lookout",
+    "Crystal Desert",
+    "Crystal Oasis",
+    "Cursed Shore",
+    "Cynthia's Glade",
+    "Dark Portal Flats",
+    "Desert Highlands",
+    "Desolace",
+    "Devona's Watch",
+    "Diessa Plateau",
+    "Diessa Steppe",
+    "Domain of Vabbi",
+    "Doomhammer Flats",
+    "Dormant Weald",
+    "Draenei Meadows",
+    "Dragon Roost",
+    "Dragon's Gullet",
+    "Dragon's Stand",
+    "Dragonblight",
+    "Dread Wastes",
+    "Dredge Flats",
+    "Drustvar",
+    "Dun Morogh",
+    "Dunes of Despair",
+    "Durotar Flats",
+    "Duskwood",
+    "Duskwood Glen",
+    "Duskwood Hollow",
+    "Dustwallow Fen",
+    "Dustwallow Marsh",
+    "Dwarven Foothills",
+    "Eastern Plaguelands",
+    "Eevee Meadow",
+    "Elite Four Barrens",
+    "Elwynn Forest",
+    "Elwynn Meadows",
+    "Eterna Glade",
+    "Eye of the North",
+    "Fairy Glade",
+    "Felsparkle Reeking Moors",
+    "Felsparkle Sludge Shallows",
+    "Felsparkle Stenchmarsh",
+    "Felwood",
+    "Felwood Thicket",
+    "Feralas",
+    "Feralas Wilds",
+    "Fireheart Rise",
+    "Fisherman's Cove",
+    "Floaroma Fields",
+    "Foefire Fields",
+    "Forgotten Dunes",
+    "Forsaken Moors",
+    "Frontier Flats",
+    "Frostgorge Sound",
+    "Frostmourne Fields",
+    "Fuchsia Marsh",
+    "Furbolg Glade",
+    "Gadd's Folly",
+    "Garrosh's Folly",
+    "Gendarran Fields",
+    "Gendarran Heath",
+    "Gengar Hollow",
+    "Ghost Moors",
+    "Giants' Rift",
+    "Gilneas Heath",
+    "Glimwood Tangle",
+    "Glint's Rest",
+    "Gnoll Marsh",
+    "Gnomish Fields",
+    "Goblin Flats",
+    "Gorehowl Plains",
+    "Grawl Hollow",
+    "Griffon's Mouth",
+    "Grizzly Hills",
+    "Gwen's Garden",
+    "Haina Desert",
+    "Hall of Fame Fields",
+    "Harathi Hinterlands",
+    "Harathi Moors",
+    "Harpy Bluffs",
+    "Hellfire Peninsula",
+    "Highborne Ruins",
+    "Hillsbrad Foothills",
+    "Hillsbrad Meadows",
+    "Howling Fjord",
+    "Ilex Hollow",
+    "Ilex Ruins",
+    "Illidan's Perch",
+    "Iron Marches",
+    "Jade Sea",
+    "Jaina's Overlook",
+    "Jotun Steppe",
+    "Kessex Hills",
+    "Kessex Marsh",
+    "Khadgar's Rest",
+    "Khaz Modan Steppe",
+    "Kobold Ruins",
+    "Kodan Drifts",
+    "Kormir's Rest",
+    "Koss's Crossing",
+    "Krait Coast",
+    "Kralkatorrik's Scar",
+    "Kryta Heath",
+    "Lakeside County",
+    "Lance's Roost",
+    "Lapras Cove",
+    "Largos Lagoon",
+    "Lavender Hollow",
+    "Littleroot Woods",
+    "Loch Modan",
+    "Lordaeron Fields",
+    "Lornar's Vale",
+    "Lunar Wing Meadow",
+    "Lush Jungle",
+    "Luxon Shores",
+    "Magikarp Falls",
+    "Magma Flats",
+    "Magni's Reach",
+    "Maguuma Glade",
+    "Maguuma Jungle",
+    "Malchor's Leap",
+    "Malfurion's Rest",
+    "Mantid Wastes",
+    "Marill Shallows",
+    "Master Ball Meadow",
+    "Medivh's Folly",
+    "Meteor Flats",
+    "Mhenlo's Glade",
+    "Miltank Pasture",
+    "Misty's Cove",
+    "Mogu Ruins",
+    "Moonglade",
+    "Mordremoth's Tangle",
+    "Mourning Veil Falls",
+    "Mulgore Plains",
+    "Murloc Shallows",
+    "Mursaat Ruins",
+    "Naga Coast",
+    "Nagrand",
+    "Nightelf Retreat",
+    "Norn Highlands",
+    "Oak's Meadow",
+    "Oddish Meadow",
+    "Ogre Rise",
+    "Ohn'ahran Plains",
+    "Orc Steppe",
+    "Orcish Foothills",
+    "Pact Outpost",
+    "Paldean Crater",
+    "Pale Tree Glade",
+    "Pallet Meadow",
+    "Pandaren Fields",
+    "Petalburg Marsh",
+    "Petalburg Woods",
+    "Pewter Barrens",
+    "Pidgey Plains",
+    "Pikachu Glen",
+    "Plains of Ashford",
+    "Pockmark Flats",
+    "Pokeflute Plains",
+    "Ponyta Meadow",
+    "Psychic Meadow",
+    "Psyduck Shallows",
+    "Quaggan Shallows",
+    "Queensdale",
+    "Queensdale Hollow",
+    "Quel'Delar Glade",
+    "Quel'Thalas Glades",
+    "Quilboar Barrens",
+    "Raging Shallows",
+    "Rainbow Wing Glade",
+    "Ranger's Outpost",
+    "Red Scale Shoals",
+    "Redridge Hollow",
+    "Redridge Marsh",
+    "Regent Valley",
+    "Relic Dunes",
+    "Rexxar's Hollow",
+    "Rocket Ruins",
+    "Rurik's Rest",
+    "Rytlock County",
+    "Saffron Heath",
+    "Sage Lands",
+    "Satyr Thicket",
+    "Scarlet's Folly",
+    "Scoundrel's Rise",
+    "Scourge Fields",
+    "Searing Flats",
+    "Shadowmoon Valley",
+    "Shing Jea Meadows",
+    "Shiro's Reach",
+    "Sholazar Basin",
+    "Silithus",
+    "Silph Heath",
+    "Silver Wing Glade",
+    "Silverpine Hollow",
+    "Silverwastes",
+    "Skale Flats",
+    "Skritt Scrapyard",
+    "Skyfall Downs",
+    "Slowpoke Gorge",
+    "Snorlax Hollow",
+    "Snowden Drifts",
+    "Sparkfly Fen",
+    "Sparkfly Meadows",
+    "Spear Rise",
+    "Stony Wilderness",
+    "Straits of Devastation",
+    "Stranglethorn Marsh",
+    "Stranglethorn Vale",
+    "Sudowoodo Grove",
+    "Sundering Plain",
+    "Sunrise Fields",
+    "Sunspear Reach",
+    "Svanir Reach",
+    "Sylvan Swamp",
+    "Sylvanas' Hollow",
+    "Sylvari Thicket",
+    "Talus Chute",
+    "Tanaris Dunes",
+    "Tangled Depths",
+    "Tauren Plains",
+    "Tauros Plains",
+    "Tears of the Fallen",
+    "Teldrassil Grove",
+    "Ten Carat Hill",
+    "Tengu Shores",
+    "Thousand Needles",
+    "Thrall's Crossing",
+    "Thunderfury Heath",
+    "Timberline Falls",
+    "Tirisfal Glades",
+    "Tirisfal Moors",
+    "Titan Ruins",
+    "Togo's Hollow",
+    "Trahearne's Rest",
+    "Trogg Flats",
+    "Trollish Marsh",
+    "Tuskarr Cove",
+    "Twilight Heath",
+    "Twilight Highlands",
+    "Tyrande's Glade",
+    "Un'Goro Crater",
+    "Uther's Rest",
+    "Val'sharah",
+    "Valley of the Four Winds",
+    "Valor Fen",
+    "Varian's Reach",
+    "Verdant Brink",
+    "Verity Shallows",
+    "Viridian Forest",
+    "Viridian Meadow",
+    "Vrykul Steppe",
+    "Vulpera Dunes",
+    "Vulture Drifts",
+    "Waking Shores",
+    "Warglaive Fields",
+    "Wayfarer Foothills",
+    "Westfall",
+    "Westfall Downs",
+    "Winterspring",
+    "Wooper Marsh",
+    "Worgen Moors",
+    "Wrathgate Fields",
+    "Xalatath's Reach",
+    "Zandalari Shores",
+    "Zangarmarsh",
+    "Zhaitan's Reach"
+]
+
+# The template to use when generating new names. Supported placeholders are {Biome} (english biome name) and {MrPork} (the default name generator).
+nameGenerationTemplate = "{MrPork}"
+
+# Set to REGULAR to have waystones spawn in some villages. Set to FREQUENT to have waystones spawn in most villages. Set to DISABLED to disable waystone generation in villages. Waystones will only spawn in vanilla or supported villages.
+spawnInVillages = "REGULAR"
+
+# Set to 'DEFAULT' to only generate the normally textured waystones. Set to 'MOSSY' or 'SANDY' to generate all as that variant. Set to 'BIOME' to make the style depend on the biome it is generated in.
+wildWaystoneStyle = "BIOME"
+
+# List of dimensions that wild waystones are allowed to spawn in. If left empty, all dimensions except those in wildWaystonesDimensionDenyList will be able to spawn waystones, provided the biomes are in the `has_structure/waystone` tag.
+wildWaystonesDimensionAllowList = [ "minecraft:the_end", "minecraft:the_nether", "minecraft:overworld" ]
+
+# List of dimensions that wild waystones are not allowed to spawn in, even if the biome is in the `has_structure/waystone` tag. Only used if wildWaystonesDimensionAllowList is empty.
+wildWaystonesDimensionDenyList = [  ]
+
