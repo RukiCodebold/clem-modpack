@@ -1,0 +1,13 @@
+name = "Click Villagers"
+filename = "ClickVillagers-1.6.7+1.21.1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/BITzwT7B/versions/VvNTrtRD/ClickVillagers-1.6.7%2B1.21.1-fabric.jar"
+hash-format = "sha512"
+hash = "00f2f6b3b40fb8e74f9d5ecd38c7dcef13ddfb5a7fcd5362a8938a79cb02128ddf0b3477c1e1cffb82a0a79cd4e3fbdb5afa9013049f95b6efc5e85509ee70ce"
+
+[update]
+[update.modrinth]
+mod-id = "BITzwT7B"
+version = "VvNTrtRD"

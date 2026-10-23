@@ -1,0 +1,13 @@
+name = "Async Locator Refined"
+filename = "async-locator-refined-fabric-1.21.1-1.6.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/LUIHK4LD/versions/uy0pYXcn/async-locator-refined-fabric-1.21.1-1.6.0.jar"
+hash-format = "sha512"
+hash = "f8145ddb8641965eed11b85ee3c2b7fda6b4cc070a98bb218cfceb8fc476a911aa76c65f4a4dbaf00617fe5b35f0f39d4d4ee79fb456768e6dea7746a5f63648"
+
+[update]
+[update.modrinth]
+mod-id = "LUIHK4LD"
+version = "uy0pYXcn"

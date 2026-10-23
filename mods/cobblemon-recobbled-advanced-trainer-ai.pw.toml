@@ -1,0 +1,13 @@
+name = "Cobblemon: Run & Bun(Advanced Trainer AI)"
+filename = "rbrctai-fabric-1.21.1-0.16.1-beta.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/KWljXemF/versions/UnKij9QM/rbrctai-fabric-1.21.1-0.16.1-beta.jar"
+hash-format = "sha512"
+hash = "619660b9e27b5abcf2ccca3f5268cb80444e84b8a6c2ac1b26ec9b26cd5a1e9af5e191bba8616d39024a4bcf5252fe071f885e26ce51cbb35a4db977a02d7986"
+
+[update]
+[update.modrinth]
+mod-id = "KWljXemF"
+version = "UnKij9QM"

@@ -1,0 +1,13 @@
+name = "Advancement Frames"
+filename = "advancementframes-1.21-2.3.2-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/zUBn5hHr/versions/qJpwwrxB/advancementframes-1.21-2.3.2-fabric.jar"
+hash-format = "sha512"
+hash = "c3a2effb9a34adba3f6002a60133e615ec536acd1d498fa94cea7371e1d5a92e75537ded61e57f4f2e1e7a0c9ec6e26fb2a1efec62a538c52d10f9c8ffcd930f"
+
+[update]
+[update.modrinth]
+mod-id = "zUBn5hHr"
+version = "qJpwwrxB"

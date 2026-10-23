@@ -1,0 +1,13 @@
+name = "No Surface Lava"
+filename = "NoSurfaceLava-1.2+1.21.x-26.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/wpuEjeop/versions/rqqF4EvV/NoSurfaceLava-1.2%2B1.21.x-26.3.jar"
+hash-format = "sha512"
+hash = "7498d34bc73c4c92d7f0083a612de1574b8dae1d0d75509bfb6676e37acae82685a6105c40200dc87aaccabbf5a16a6cfc49867cb7d33cb66bce0d459fce42ba"
+
+[update]
+[update.modrinth]
+mod-id = "wpuEjeop"
+version = "rqqF4EvV"

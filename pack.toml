@@ -1,0 +1,13 @@
+name = "Clem Modpack"
+author = "Kizei"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "5f80100876246d65675fd088146ac8d2800e8e5f38c5cf71b0db8265e1b5d371"
+
+[versions]
+fabric = "0.19.5"
+minecraft = "1.21.1"
