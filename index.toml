@@ -382,6 +382,10 @@ hash = "78f12a1f76d9743d6b473f65c159b614c1d4d561b14c02645c7feb74a0697fd8"
 metafile = true
 
 [[files]]
+file = "mods/cobblemon-riders-call-fabric-1.1.3+1.21.1.jar"
+hash = "0fadf52785e114d893b571b5b27418059201f1c7726afa42c00318504dd57a0d"
+
+[[files]]
 file = "mods/cobblemon-safepastures.pw.toml"
 hash = "77b3aabe7668b9f4e8e16ba1ed5b352cc388bbc732b7c86b0ce9cde41b0a362c"
 metafile = true
