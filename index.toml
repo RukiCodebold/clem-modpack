@@ -5,6 +5,10 @@ file = ".nojekyll"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
+file = "README.md"
+hash = "e5ae1d89e346472d09032e9f5df9fa751d329283eefbf832a9702214ae7ec297"
+
+[[files]]
 file = "config/fancymenu/assets/cm_audio/north_province.ogg"
 hash = "c1be22d0e1012e55ad0573afb190fb9d19a08b570b1b55ec59c792e45961a41a"
 
@@ -499,6 +503,10 @@ metafile = true
 file = "mods/geckolib.pw.toml"
 hash = "5f62f54e16fdc97a0fb21b63a563583f85d141772f6aa99f68d40cd654b7dc35"
 metafile = true
+
+[[files]]
+file = "mods/guardvillagers-2.1.2-1.21.1.jar"
+hash = "b7a2683564635186a37c1ab6def07cecab7505bd054357d0aa9bbc8f889345c8"
 
 [[files]]
 file = "mods/handcrafted.pw.toml"
