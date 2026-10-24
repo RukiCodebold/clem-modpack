@@ -1,0 +1,13 @@
+name = "Mercantile - Villager Overhaul"
+filename = "mercantile-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "882c950037e2e8c2164f4944e7284cfe163d8849"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8762685
+project-id = 1591251

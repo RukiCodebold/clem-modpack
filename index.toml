@@ -505,8 +505,9 @@ hash = "5f62f54e16fdc97a0fb21b63a563583f85d141772f6aa99f68d40cd654b7dc35"
 metafile = true
 
 [[files]]
-file = "mods/guardvillagers-2.1.2-1.21.1.jar"
-hash = "b7a2683564635186a37c1ab6def07cecab7505bd054357d0aa9bbc8f889345c8"
+file = "mods/guard-villagers-fabric.pw.toml"
+hash = "859f4df5c7856ea51131af23c09e2ad8b7a0360b3028e6e41b5f64f715e65708"
+metafile = true
 
 [[files]]
 file = "mods/handcrafted.pw.toml"
@@ -623,6 +624,11 @@ hash = "114f57ad1875c16cd7d9b9cf850025f40e1b008f0865f3e5783da8cfc128b291"
 metafile = true
 
 [[files]]
+file = "mods/mercantile-villager-overhaul.pw.toml"
+hash = "92856430b8984e50159221a6bce6783547693a5b7ba01466af0e1cef97a3956b"
+metafile = true
+
+[[files]]
 file = "mods/mezzconfig.pw.toml"
 hash = "85d8ee0787927bd4992487f499018494a8d8d6978737386d24e2e7c9d4f8c817"
 metafile = true
@@ -704,7 +710,7 @@ metafile = true
 
 [[files]]
 file = "mods/pokemon-fly-transitions.pw.toml"
-hash = "6644f16b376d18e572abd6adae8446d6f1180b2af011d123eddb2bdc3d22f39d"
+hash = "2ceeed7532464347502482a0da891980933facd504269b8177415568c9abdc9a"
 metafile = true
 
 [[files]]
