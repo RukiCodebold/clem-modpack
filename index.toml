@@ -206,6 +206,10 @@ hash = "21dfa9e779823eb37404ff87561e83b5169686b518b7e42d20aa72f30f9487d9"
 metafile = true
 
 [[files]]
+file = "mods/CobbleThemes-1.0.0.jar"
+hash = "d26270917e0e382a46789adb5032e13570e4e2333d05ca73f946ce79a48989fd"
+
+[[files]]
 file = "mods/accessories.pw.toml"
 hash = "ba7432aebc67e37b6adc4ccd296599dc0fd383f55d2026e79d3f7bb28fc2a89f"
 metafile = true
@@ -336,6 +340,10 @@ hash = "fe84e2227c405bf9b735f01f307a01768784b9d49df82a13ecda3d3b6d198507"
 metafile = true
 
 [[files]]
+file = "mods/cobbled-armour-trims-3.2.jar"
+hash = "bf219e187c442cc64c360386505bc5acdeb68e042cabeb5902b9106c83830257"
+
+[[files]]
 file = "mods/cobbledollars.pw.toml"
 hash = "b61d3783e85f963d6235bf86e0d09a3f9e0030634654b07327600ca6b939d627"
 metafile = true
@@ -343,6 +351,11 @@ metafile = true
 [[files]]
 file = "mods/cobblemon-additions.pw.toml"
 hash = "5ddeb6f55fc1e3ccf36bd3733768ff64337e5531b018a05668c7e9d42f3c2b19"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-battle-tower.pw.toml"
+hash = "4618bdbb401efc2249b5b42d0f10dd9f7ea98cf792722353f338e4538d6328e9"
 metafile = true
 
 [[files]]
@@ -388,6 +401,11 @@ metafile = true
 [[files]]
 file = "mods/cobblemon-tim-core.pw.toml"
 hash = "4e35fc034947cc9f9bfec229ed6988eab993d523d37ae821db648dc30de711e4"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-trainers-backpack.pw.toml"
+hash = "62c1806b9003246da8df83312e9e36969ac0449fc95cdff1d362351dc50aea26"
 metafile = true
 
 [[files]]
@@ -645,6 +663,10 @@ hash = "c3e74ba92df17c5fbdb21c4d2418e1296dc579049f060bd0fb5e8604bf9556ac"
 metafile = true
 
 [[files]]
+file = "mods/more-radical-trainers-1.8.1.jar"
+hash = "9b9aefc03ae5f986e3741367d10efba3df573cab8f1ef07ccad75321cf1b7da9"
+
+[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "7fc969e77edc3b0b9946b42070fd858349a74555f0cf9648907241af8a3a2d25"
 metafile = true
@@ -885,6 +907,11 @@ hash = "442c13fe3b1f0462adf895bbab49388967cafc294f56c57d2d4b1db6b0b24d53"
 metafile = true
 
 [[files]]
+file = "mods/wild-battle-api.pw.toml"
+hash = "ae809b21236de21029a1b6ead0f3d373820cd982e23c076b34d3a8efc5603b48"
+metafile = true
+
+[[files]]
 file = "mods/xaeroplus.pw.toml"
 hash = "bed65ffdd347e1025cf717f20110dd31b46c76aed934d33fc5c734e7c204e02d"
 metafile = true
@@ -920,6 +947,10 @@ hash = "5a75171138477185dc260864c89b78fbd18338256c7f8cf7d7dfb780ca80598d"
 metafile = true
 
 [[files]]
+file = "resourcepacks/+1.21.3 Fresh Moves v3.1.1 (With Animated Eyes).zip"
+hash = "9100888b1153418ccb41b5af053d41e01f297ecd2da2d0ed031819177017638b"
+
+[[files]]
 file = "resourcepacks/ATM x MSD [v5.0].zip"
 hash = "e18f8d5a276ae6ef0b10f006bc782e51ef1987a3fcfb530d788ee7b818484922"
 
@@ -942,6 +973,18 @@ hash = "f52499d7368a3c9a566c60b634c7a5a6b35289613c9bd1923b1b60b3dbcbebf0"
 [[files]]
 file = "resourcepacks/Maxi's-JM+CM_Pixel-U11.zip"
 hash = "69b895090273093492ea7eded6d7dfb0ff5a8460ec4bc50d369f300aabad299d"
+
+[[files]]
+file = "resourcepacks/RCT Trainer Animation_0.2.1beta.zip"
+hash = "278f001264a534fe60b314d032a5e496ed1f98d61a0a050056aafb7b33f8095f"
+
+[[files]]
+file = "resourcepacks/RCT Trainers+ [1.7] v2.2.zip"
+hash = "d9bce7583a806dec8b4e7dd7af8e1bf3a7ade5a05d0caced8dcbc4f447ce60f6"
+
+[[files]]
+file = "resourcepacks/jor'sCobbelemonMuiscPack2.1.zip"
+hash = "34305efab71dd2b5ff421fe4d903dd5f5d21a60a11016d93305a85925f21023b"
 
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.9.1.zip"

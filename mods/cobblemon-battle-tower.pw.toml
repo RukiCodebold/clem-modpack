@@ -1,0 +1,13 @@
+name = "Cobblemon Battle Tower"
+filename = "cobblemon_battle_tower-fabric-1.11.23.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f421b4a1834e2bca8db5ddcef3c11231c0d7b19f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8912882
+project-id = 1441260
