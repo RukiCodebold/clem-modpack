@@ -920,8 +920,8 @@ hash = "5a75171138477185dc260864c89b78fbd18338256c7f8cf7d7dfb780ca80598d"
 metafile = true
 
 [[files]]
-file = "resourcepacks/ATM x MSD v4.zip"
-hash = "999a52c4713582683e64e7045633490a6d121858366068a9c4b0d128bbd518bb"
+file = "resourcepacks/ATM x MSD [v5.0].zip"
+hash = "e18f8d5a276ae6ef0b10f006bc782e51ef1987a3fcfb530d788ee7b818484922"
 
 [[files]]
 file = "resourcepacks/Better-Leaves-9.5.zip"
