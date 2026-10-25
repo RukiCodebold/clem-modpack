@@ -326,11 +326,6 @@ hash = "6d511d91e17e09d36b0b0c7065b07eb604146bc9f3df0fbc932948aaf33aa440"
 metafile = true
 
 [[files]]
-file = "mods/clickvillagers.pw.toml"
-hash = "8405a4be27cc8709024b9a9b8902ddee6e448ca84b029a8eed38ab2f99b62688"
-metafile = true
-
-[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "446c173c87b7908daee86b0dee89c6b628c77beb7a0bc091ff5252b7c0062080"
 metafile = true
@@ -352,7 +347,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-capture-xp.pw.toml"
-hash = "b3c6aa02fecc3c380dadd2755e849a55311e2532df54b260c6aaf34a509b6434"
+hash = "aab7c8bd74903e6caffe26a3639abe04d8b5c7d863097377aeb58978aad2cd40"
 metafile = true
 
 [[files]]
@@ -396,12 +391,12 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-tim-core.pw.toml"
-hash = "b41d60526d263f4b596f9cb1a4fde9b3040dd943ff4b30ee428dfdb0e29ae700"
+hash = "4e35fc034947cc9f9bfec229ed6988eab993d523d37ae821db648dc30de711e4"
 metafile = true
 
 [[files]]
 file = "mods/cobblemon.pw.toml"
-hash = "cfedb1ff05dbdb07b66f416031bc5349617d976da5e2a0750f197bee5d497d23"
+hash = "213e72ded02cf08d40a5df73786ef9916c755cfe97a1459d628317483ead3062"
 metafile = true
 
 [[files]]
@@ -556,7 +551,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "77f114a46936c05d3922d901aba2657353a5a60367b2240dc423fa887f5f4161"
+hash = "1fbf487a79705b0edbc47fac30cd24dda40c4b93d7f755404e2fd680fdea6689"
 metafile = true
 
 [[files]]
@@ -700,7 +695,7 @@ metafile = true
 
 [[files]]
 file = "mods/platform.pw.toml"
-hash = "56fb5b72196b4a7e041a2ae21ed97bef05d27029a41a160813eaa345af70cb0f"
+hash = "a43422c4e8b2a1d1d608633dcead23ad045488538f6beac4a49d3c0f978a22ce"
 metafile = true
 
 [[files]]
@@ -790,7 +785,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "3d74d987e377deef32d3971d7c1260cb7bb68ce8bc930f80ed4d9ea3073a35f3"
+hash = "5c9c3f4eeaaab5b0d241bb0a8164bd1379d329189baf2effc8bed97398efd72f"
 metafile = true
 
 [[files]]
@@ -880,7 +875,7 @@ metafile = true
 
 [[files]]
 file = "mods/vanillabackport.pw.toml"
-hash = "b21a2f06c0aed472b2fd0e56a3fb9427a63f748af6605a44e562276cb8792982"
+hash = "3ec27e77dc2f48ae6e9affcc099890d9a3bacca6ce8d2fecebbb01e2c072c51f"
 metafile = true
 
 [[files]]
