@@ -711,6 +711,10 @@ hash = "14570af8f3dc013245fc42f57b4cdf4cdc4670db0d162d94a3c92c53c0cd7f8c"
 metafile = true
 
 [[files]]
+file = "mods/no-villager-climb-1.0.0.jar"
+hash = "a72c85cd7b91b50beb25ce0c054b3248726985a43ff0fe32d019977ee6db9589"
+
+[[files]]
 file = "mods/nosurfacelava.pw.toml"
 hash = "faf9b017afa1901e99291959b8bdc31930a6caa8626b192ff97af8b81c7fda9c"
 metafile = true
