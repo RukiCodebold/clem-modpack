@@ -821,6 +821,11 @@ hash = "83b5a1c0b39aa94492a13f319c097ff8e7e55a6718e287e5d73b32f7500f1727"
 metafile = true
 
 [[files]]
+file = "mods/simple-villager-follow.pw.toml"
+hash = "bfdac7ba5bc363329d43a76dc63cc21de97d3fe3b6d03f21c36fe4ae509661cc"
+metafile = true
+
+[[files]]
 file = "mods/sleep.pw.toml"
 hash = "48c0a153aca68d582623a016aeca10c8e9e4a859fbb2f8e97bb88f54ec761c9d"
 metafile = true

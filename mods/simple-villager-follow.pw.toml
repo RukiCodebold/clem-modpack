@@ -1,0 +1,13 @@
+name = "Simple Villager Follow"
+filename = "simple_villager_follow-fabric-1.21.1-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/TLfqKtxl/versions/8MIesfzt/simple_villager_follow-fabric-1.21.1-1.0.0.jar"
+hash-format = "sha512"
+hash = "cfa7a0aa710d32b800a2a0c43ea4934261bc58b8e6c24185f40ab24b4aea9c185345f06ad19862ab96a09dd77b52f0f8b7afbe4e10e0e91c5ece9a261cfbbe2b"
+
+[update]
+[update.modrinth]
+mod-id = "TLfqKtxl"
+version = "8MIesfzt"
