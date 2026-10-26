@@ -1,0 +1,13 @@
+name = "(YARL) Yet Another Resource Loader"
+filename = "yarl-1.21.x-1.1-FABRIC.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1c94baaddcdb3cb87233784a962c3ce5c2c7f0af"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7667801
+project-id = 1465625

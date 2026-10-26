@@ -9,8 +9,42 @@ file = "README.md"
 hash = "e5ae1d89e346472d09032e9f5df9fa751d329283eefbf832a9702214ae7ec297"
 
 [[files]]
-file = "config/fancymenu/assets/cm_audio/north_province.ogg"
-hash = "c1be22d0e1012e55ad0573afb190fb9d19a08b570b1b55ec59c792e45961a41a"
+file = "config/ReactiveMusic.json5"
+hash = "4f76465abdff93b44a1b47085419065d4db0924e6c56584c2eb3b6c909a6f21d"
+
+[[files]]
+file = "config/YARL/packs/ATM x MSD [v5.0].zip"
+hash = "e18f8d5a276ae6ef0b10f006bc782e51ef1987a3fcfb530d788ee7b818484922"
+
+[[files]]
+file = "config/YARL/packs/Clem Custom Paintings - Resource Pack.zip"
+hash = "fedd5e6d51e97b7929470612f1c821f772481a87bbd6453cef8aee00cd0946fb"
+
+[[files]]
+file = "config/YARL/packs/E19 Cobblemon Minimap Icons.zip"
+hash = "8ccfa6d0558fe85c570539bcf082ceda5a9f47d4d1f4fa0ebdfd152edcb8aa0d"
+
+[[files]]
+file = "config/YARL/packs/Extremely_Sus_Sand_v1-0-5.zip"
+hash = "f52499d7368a3c9a566c60b634c7a5a6b35289613c9bd1923b1b60b3dbcbebf0"
+
+[[files]]
+file = "config/YARL/packs/RCT Trainers+ [1.7] v2.2.zip"
+hash = "d9bce7583a806dec8b4e7dd7af8e1bf3a7ade5a05d0caced8dcbc4f447ce60f6"
+
+[[files]]
+file = "config/YARL/packs/VanillaTweaks_r815523_MC1.21.x.zip"
+hash = "9f88492be0f29bc91fee4f5ee2b6bc19579536aa5ac0be9b5f176ca7822dd89b"
+
+[[files]]
+file = "config/YARL/packs/cobblemon-music-pack.pw.toml"
+hash = "2126b9fa57aa67bc776ec154fe9e296be0a230ec7b2182c2eefb2a4131234286"
+metafile = true
+
+[[files]]
+file = "config/YARL/packs/cobblesounds.pw.toml"
+hash = "c47bc91ff99e24feefd01bef5a713ee9a1015c85d1b7558989dfd6ab5ba373f0"
+metafile = true
 
 [[files]]
 file = "config/fancymenu/assets/cm_textures/background.png"
@@ -430,6 +464,10 @@ hash = "d0fd3fc7e4a67154cc01657b315d735b8d2e8acbe24001662a95ab1e157cb20c"
 metafile = true
 
 [[files]]
+file = "mods/doors-closed-1.0.1+1.19.4.jar"
+hash = "30121fd22d11aeaa0026fe6318635b3e6ea288de4953078b0e1e37d4f4b68b5e"
+
+[[files]]
 file = "mods/dungeons-and-taverns.pw.toml"
 hash = "447ec530620e3c0da62316cb3358e43c15132084aab22ba992fefac199ca92a9"
 metafile = true
@@ -748,6 +786,11 @@ hash = "321b6bb2cb567a6c7750ddd44c293a87bcc3e756df63cf6dba44d0c401b8bc8d"
 metafile = true
 
 [[files]]
+file = "mods/reactive-music.pw.toml"
+hash = "83ac9b5b11044e2213a64ee81e37a7dac69dfb7d6484050830da4af60b698dc2"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "f8c2abb9b0f43207b6fdfd96d9168aa35a4781034179e3a89b47f3f34c193ed9"
 metafile = true
@@ -893,6 +936,11 @@ hash = "3ec27e77dc2f48ae6e9affcc099890d9a3bacca6ce8d2fecebbb01e2c072c51f"
 metafile = true
 
 [[files]]
+file = "mods/villager-barrier.pw.toml"
+hash = "ccd17526d5b24a19cfedcb12d263a0c584fa47aef26b0a7f73b019e9ae035f34"
+metafile = true
+
+[[files]]
 file = "mods/visuality.pw.toml"
 hash = "39426bfeeab22ea17f94fd3904dd9b78f9a3c9b4ddcb732b734ddbfd0e3568af"
 metafile = true
@@ -928,6 +976,11 @@ hash = "af20070dd9497817a83162c17b181a0a44f7213ea302d059a81c5aed02d0c877"
 metafile = true
 
 [[files]]
+file = "mods/yarl.pw.toml"
+hash = "db7abbca4a7db09cee52da25543d8b01f64e6e36116d3181adf98ce1758b63f1"
+metafile = true
+
+[[files]]
 file = "mods/yosbr.pw.toml"
 hash = "649c259a4777ba1b544b69d04a79f2b1b0e1a3c520033cc86a3c14d5fa53564a"
 metafile = true
@@ -947,28 +1000,12 @@ file = "resourcepacks/+1.21.3 Fresh Moves v3.1.1 (With Animated Eyes).zip"
 hash = "9100888b1153418ccb41b5af053d41e01f297ecd2da2d0ed031819177017638b"
 
 [[files]]
-file = "resourcepacks/ATM x MSD [v5.0].zip"
-hash = "e18f8d5a276ae6ef0b10f006bc782e51ef1987a3fcfb530d788ee7b818484922"
-
-[[files]]
 file = "resourcepacks/Better-Leaves-9.5.zip"
 hash = "5480640cb2f7674da4f2897ebc48b29a436706614160f4d4d8ad0ead5150fea6"
 
 [[files]]
-file = "resourcepacks/Clem Custom Paintings - Resource Pack.zip"
-hash = "fedd5e6d51e97b7929470612f1c821f772481a87bbd6453cef8aee00cd0946fb"
-
-[[files]]
 file = "resourcepacks/Cobblemon Interface v1.6.0.zip"
 hash = "eb40bd047c2e1443c43731e4d1ef1b9d7d0624476336f540b52a3e8fcb9eb315"
-
-[[files]]
-file = "resourcepacks/E19 Cobblemon Minimap Icons.zip"
-hash = "8ccfa6d0558fe85c570539bcf082ceda5a9f47d4d1f4fa0ebdfd152edcb8aa0d"
-
-[[files]]
-file = "resourcepacks/Extremely_Sus_Sand_v1-0-5.zip"
-hash = "f52499d7368a3c9a566c60b634c7a5a6b35289613c9bd1923b1b60b3dbcbebf0"
 
 [[files]]
 file = "resourcepacks/Maxi's-JM+CM_Pixel-U11.zip"
@@ -977,10 +1014,6 @@ hash = "69b895090273093492ea7eded6d7dfb0ff5a8460ec4bc50d369f300aabad299d"
 [[files]]
 file = "resourcepacks/RCT Trainer Animation_0.2.1beta.zip"
 hash = "278f001264a534fe60b314d032a5e496ed1f98d61a0a050056aafb7b33f8095f"
-
-[[files]]
-file = "resourcepacks/RCT Trainers+ [1.7] v2.2.zip"
-hash = "d9bce7583a806dec8b4e7dd7af8e1bf3a7ade5a05d0caced8dcbc4f447ce60f6"
 
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.9.1.zip"

@@ -1,0 +1,17 @@
+{
+  "musicDelayLength2": "SHORT",
+  "musicSwitchSpeed2": "SONGPACK_DEFAULT",
+  "debugModeEnabled": false,
+  "loadedUserSongpack": "jor\u0027sCobblemonMusicPackV2.1",
+  "blacklistedDimensions": [],
+  "savedHomePositions": {
+    "saved": {
+      "field_1352": 6609.5,
+      "field_1351": 65.5625,
+      "field_1350": -5234.5
+    }
+  },
+  "soundsMuteMusic": [],
+  "soundsMuteMusicIgnoreDistance": [],
+  "hasForcedInitialVolume": true
+}

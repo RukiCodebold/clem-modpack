@@ -1,0 +1,13 @@
+name = "Villager Barrier"
+filename = "villagerbarrier-1.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6f43ce2d9993fa981e983b38a0cf93a44b0927b8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8810256
+project-id = 1458334
