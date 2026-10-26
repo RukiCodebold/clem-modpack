@@ -3,11 +3,11 @@ filename = "villagerbarrier-1.0.3.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "6f43ce2d9993fa981e983b38a0cf93a44b0927b8"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/a0iJwRB2/versions/eNCcdlfW/villagerbarrier-1.0.3.jar"
+hash-format = "sha512"
+hash = "214ab684a680de3f26f70d40b04c81def5aeb1fc944713d8b8f9697f5750841a1331fb1ca3e1ea2c91d125725327636c0498a577a3dadc6b65569e8f0abfbbed"
 
 [update]
-[update.curseforge]
-file-id = 8810256
-project-id = 1458334
+[update.modrinth]
+mod-id = "a0iJwRB2"
+version = "eNCcdlfW"
