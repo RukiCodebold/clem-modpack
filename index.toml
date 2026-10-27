@@ -473,6 +473,11 @@ hash = "d0fd3fc7e4a67154cc01657b315d735b8d2e8acbe24001662a95ab1e157cb20c"
 metafile = true
 
 [[files]]
+file = "mods/cristel-lib.pw.toml"
+hash = "aa2c192c435e084d54b48ed426e7ebae469d162b636f7dccbd0e68ba8f79764e"
+metafile = true
+
+[[files]]
 file = "mods/doors-closed-1.0.1+1.19.4.jar"
 hash = "30121fd22d11aeaa0026fe6318635b3e6ea288de4953078b0e1e37d4f4b68b5e"
 
@@ -682,6 +687,11 @@ hash = "f7aefe1255ac1fe3e7c122c7aff1f9326862e070897ef2d856aae4f336d085a5"
 [[files]]
 file = "mods/mezzconfig.pw.toml"
 hash = "85d8ee0787927bd4992487f499018494a8d8d6978737386d24e2e7c9d4f8c817"
+metafile = true
+
+[[files]]
+file = "mods/midnightlib.pw.toml"
+hash = "1d050a30412c6c7cb26b622b598b4211454116fb200a99425ba9440a167e9ec9"
 metafile = true
 
 [[files]]
@@ -933,8 +943,18 @@ hash = "ee103bf45111c2cd7ea2d9b31087867dd4b0d07a4b7dad7b138a4ae506127b37"
 metafile = true
 
 [[files]]
+file = "mods/towns-and-towers.pw.toml"
+hash = "a9afe82b3d1b4975dd9f8b3272898450aeb29365678b3779059977301f88c101"
+metafile = true
+
+[[files]]
 file = "mods/treechop.pw.toml"
 hash = "5a0280ac06f0ee35cfd7e5234e9d265842dbf91746e2b344e9ec66f1d1e4911a"
+metafile = true
+
+[[files]]
+file = "mods/trek.pw.toml"
+hash = "856519bd5d0f0736c86a2ebbc833b8499075be4b1d6613988f4e5104ba2d9a32"
 metafile = true
 
 [[files]]
