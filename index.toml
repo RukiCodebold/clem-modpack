@@ -394,6 +394,11 @@ hash = "aab7c8bd74903e6caffe26a3639abe04d8b5c7d863097377aeb58978aad2cd40"
 metafile = true
 
 [[files]]
+file = "mods/cobblemon-droploottables.pw.toml"
+hash = "0e1a4692128bacc90074e10fb057b3eb1f2e4e65ae110125da96923113acf198"
+metafile = true
+
+[[files]]
 file = "mods/cobblemon-fight-or-flight-reborn.pw.toml"
 hash = "d3e93c4f9540a8b5362ec6ccdca85b54bcb5ded43e737a3d904f29e767ca9a4f"
 metafile = true
@@ -411,6 +416,15 @@ metafile = true
 [[files]]
 file = "mods/cobblemon-pasture-loot.pw.toml"
 hash = "253284368b80980f3261e44b2a539db0a608f525c6adfe8f096803de0c8e9c90"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-pasturecollector-fabric-1.8.1-1.4.1.jar"
+hash = "bd640d2d7edee98625ec51a516c37fa4772732c92c2e64bd778669b66b80ce36"
+
+[[files]]
+file = "mods/cobblemon-pasturecollector.pw.toml"
+hash = "4c081a6d70aa57d621082fc2e4a821e0a203fbc6771060b1b893160f63d44c10"
 metafile = true
 
 [[files]]
@@ -446,6 +460,19 @@ metafile = true
 [[files]]
 file = "mods/cobblemonraiddens.pw.toml"
 hash = "b4314d30b3711b0b1b4be04de1a2c0dae824228da7dd8c74a8c9260b41fc0e79"
+metafile = true
+
+[[files]]
+file = "mods/cobbleworkers-delight.zip"
+hash = "f9b34429984a932447b16de86ee02a513d98fbb7aac8441888d85297076141b1"
+
+[[files]]
+file = "mods/cobbleworkers-fabric-2.0.6+1.8.2.jar"
+hash = "8cea87719c0fe6f22583d62a4f26e66935826b078e47567b0bd5da9b4a390682"
+
+[[files]]
+file = "mods/cobbleworkers.pw.toml"
+hash = "46a64dacde8ea2978d8f300a34d76cedb953566d018bc87bd7d58bd2f6aba21d"
 metafile = true
 
 [[files]]
