@@ -676,9 +676,8 @@ hash = "114f57ad1875c16cd7d9b9cf850025f40e1b008f0865f3e5783da8cfc128b291"
 metafile = true
 
 [[files]]
-file = "mods/mercantile-villager-overhaul.pw.toml"
-hash = "92856430b8984e50159221a6bce6783547693a5b7ba01466af0e1cef97a3956b"
-metafile = true
+file = "mods/mercantile-1.1.0.jar"
+hash = "f7aefe1255ac1fe3e7c122c7aff1f9326862e070897ef2d856aae4f336d085a5"
 
 [[files]]
 file = "mods/mezzconfig.pw.toml"
