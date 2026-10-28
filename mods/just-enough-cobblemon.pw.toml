@@ -1,0 +1,13 @@
+name = "Just Enough Cobblemon"
+filename = "justenoughcobblemon-fabric-1.4.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8ZP0JLoK/versions/cPImtePV/justenoughcobblemon-fabric-1.4.0.jar"
+hash-format = "sha512"
+hash = "6cb4fc7c3740b247053f11d2ae8fb3459666545807a5a6ced75c526ac743c26b1a8fbdb8cf5fb54b51ea009334a674a3748399082754875aa58335736206c7eb"
+
+[update]
+[update.modrinth]
+mod-id = "8ZP0JLoK"
+version = "cPImtePV"
