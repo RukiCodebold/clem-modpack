@@ -1,0 +1,13 @@
+name = "Waxed Workstations"
+filename = "waxed_workstations-1.0.1+1.21-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/mOsmbjFA/versions/AzCZGAmp/waxed_workstations-1.0.1%2B1.21-1.21.1.jar"
+hash-format = "sha512"
+hash = "dcb3d40acbcedc3704df5222a8577d22cd3b43d717cd35280e5514eac18ecdd2d4e73241395c3d4f9c6d314710b320992b07349d48fd2becd5ac8fe665f0115c"
+
+[update]
+[update.modrinth]
+mod-id = "mOsmbjFA"
+version = "AzCZGAmp"
