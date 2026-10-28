@@ -682,7 +682,7 @@ metafile = true
 
 [[files]]
 file = "mods/mercantile-1.1.0.jar"
-hash = "f7aefe1255ac1fe3e7c122c7aff1f9326862e070897ef2d856aae4f336d085a5"
+hash = "f9b097a860bd5c1d94cf847ea6cdf3946d2283641f821b03ad66afeda393e5d0"
 
 [[files]]
 file = "mods/mezzconfig.pw.toml"
