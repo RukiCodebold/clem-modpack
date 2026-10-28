@@ -445,7 +445,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemonraiddens.pw.toml"
-hash = "b4314d30b3711b0b1b4be04de1a2c0dae824228da7dd8c74a8c9260b41fc0e79"
+hash = "1195ca01772162cd080300582ee5120889156b31cd09be137235b04f04e4a7ff"
 metafile = true
 
 [[files]]
@@ -613,7 +613,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "d92492fd806e5d609ef5e6d92222fdeb24eaa65dc23accef07f60794e15849eb"
+hash = "bde128a15932cf29df2ddbdf38d5b4c42c9c95c89f1a162d440d5d273d10a5d2"
 metafile = true
 
 [[files]]
