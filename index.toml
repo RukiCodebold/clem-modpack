@@ -335,6 +335,11 @@ hash = "6d4de3bf124c98a61c022477e07c8386940d4804001f5f71b322c9b1b74cb5c2"
 metafile = true
 
 [[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "b949add92d8a4c1890c780d24eb8653bd4be8b54240a3066b89f86683653d743"
+metafile = true
+
+[[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "5d0697933c7714e41fc1fafaaff08ddf0ad58c9c5426fb5fdb5688779582d84f"
 metafile = true
@@ -843,6 +848,11 @@ hash = "da82584dc5c26adafb4df9b69fa2ed710ead914ce8384058665fcfa85950f5fa"
 metafile = true
 
 [[files]]
+file = "mods/scalablelux.pw.toml"
+hash = "570b0f010c431efcaacf5210d9747ad671df80a67509ed61c5fe18cf4c9730b6"
+metafile = true
+
+[[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
 hash = "83b5a1c0b39aa94492a13f319c097ff8e7e55a6718e287e5d73b32f7500f1727"
 metafile = true
@@ -976,6 +986,10 @@ metafile = true
 file = "mods/vanillabackport.pw.toml"
 hash = "3ec27e77dc2f48ae6e9affcc099890d9a3bacca6ce8d2fecebbb01e2c072c51f"
 metafile = true
+
+[[files]]
+file = "mods/vibe-balls-2.0.0.jar"
+hash = "5663da5ff8a0170f61f29b7479a83d06f1d7e3c3b40fc3a348eac9a6fe98222b"
 
 [[files]]
 file = "mods/villager-barrier.pw.toml"
