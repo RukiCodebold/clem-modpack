@@ -1,0 +1,13 @@
+name = "Cycle Paintings"
+filename = "cyclepaintings-1.21.1-4.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/c85whkNB/versions/TVPLtZux/cyclepaintings-1.21.1-4.4.jar"
+hash-format = "sha512"
+hash = "72cab5c601a45f13864861807283b318b59d4708c883c7b6c821affa0412e6cf9823c1925601aa42e7be3116c7fdefcd3616876f158dc57e0d50bfc868870969"
+
+[update]
+[update.modrinth]
+mod-id = "c85whkNB"
+version = "TVPLtZux"

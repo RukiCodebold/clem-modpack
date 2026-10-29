@@ -468,6 +468,11 @@ hash = "1f99171b8e23441d463e890f02b7f6c023043a66f73db5d630fb491e1621742d"
 metafile = true
 
 [[files]]
+file = "mods/collective.pw.toml"
+hash = "623c7a7f11b2d9d083f81bf47382260c924c47eeb64c8ec921af1c445a2f7d7b"
+metafile = true
+
+[[files]]
 file = "mods/crafting-tweaks.pw.toml"
 hash = "9fbc006e8d4d3633c3841a6415ff0ecb1da037cd5ed68d2444f6702e8bfad582"
 metafile = true
@@ -480,6 +485,11 @@ metafile = true
 [[files]]
 file = "mods/cristel-lib.pw.toml"
 hash = "aa2c192c435e084d54b48ed426e7ebae469d162b636f7dccbd0e68ba8f79764e"
+metafile = true
+
+[[files]]
+file = "mods/cycle-paintings.pw.toml"
+hash = "b4f6ab81d3ec2513b4eff07d02deb4b53de7bae96e45a9d0402132bf4606eb51"
 metafile = true
 
 [[files]]
