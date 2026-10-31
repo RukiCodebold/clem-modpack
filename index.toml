@@ -29,6 +29,10 @@ file = "config/YARL/packs/Extremely_Sus_Sand_v1-0-5.zip"
 hash = "f52499d7368a3c9a566c60b634c7a5a6b35289613c9bd1923b1b60b3dbcbebf0"
 
 [[files]]
+file = "config/YARL/packs/Pumpkin_Fix.zip"
+hash = "51a3e852e6f9a908048789cbaed96ab6e7858093d32e7f4861dec7c369545350"
+
+[[files]]
 file = "config/YARL/packs/RCT Trainers+ [1.7] v2.2.zip"
 hash = "d9bce7583a806dec8b4e7dd7af8e1bf3a7ade5a05d0caced8dcbc4f447ce60f6"
 
