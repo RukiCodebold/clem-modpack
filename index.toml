@@ -561,6 +561,11 @@ hash = "1811d49906aa7a1e7f1230535c6fec91be45129d028f7900cf35571a497e42b3"
 metafile = true
 
 [[files]]
+file = "mods/fairy-lights-fabric.pw.toml"
+hash = "d6819624c02f3640410db46fbce794817d22c1e921d02c8e452be0a42cbee10e"
+metafile = true
+
+[[files]]
 file = "mods/fairylights.pw.toml"
 hash = "85ccf1cbf56d3c1286b05fce4161156b3eaca7f079717470a05126fe690263fa"
 metafile = true
