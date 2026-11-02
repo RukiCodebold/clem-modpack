@@ -816,6 +816,11 @@ hash = "a43422c4e8b2a1d1d608633dcead23ad045488538f6beac4a49d3c0f978a22ce"
 metafile = true
 
 [[files]]
+file = "mods/pokebelt-cobblemon.pw.toml"
+hash = "e9144b41f18ebce6a09f729e5f1d47ee9889b2a8e567a4588beb73e7e7f5c6bd"
+metafile = true
+
+[[files]]
 file = "mods/pokeblocks.pw.toml"
 hash = "5db32bd841fda8547d27e6c74ca4c11ea9a50285fbade0bed654deb8b5e48db0"
 metafile = true
