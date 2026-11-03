@@ -17,6 +17,10 @@ file = "config/YARL/packs/ATM x MSD [v5.0].zip"
 hash = "e18f8d5a276ae6ef0b10f006bc782e51ef1987a3fcfb530d788ee7b818484922"
 
 [[files]]
+file = "config/YARL/packs/ATM_Legendary_Riding_Models.zip"
+hash = "0aa5772a71b8e8d5c4108df7480a1276476080d5c287b77453c622f2e509092d"
+
+[[files]]
 file = "config/YARL/packs/Clem Custom Paintings - Resource Pack.zip"
 hash = "fedd5e6d51e97b7929470612f1c821f772481a87bbd6453cef8aee00cd0946fb"
 
@@ -976,6 +980,11 @@ hash = "f1bfac1c5060b9e0ec9166de25bce8305d16dee48fb31583380567c37ee6b349"
 metafile = true
 
 [[files]]
+file = "mods/terrablender.pw.toml"
+hash = "e35593590fe988653baebae4638f6c93b5d822351274955cc1288b34fe5429fe"
+metafile = true
+
+[[files]]
 file = "mods/terralith.pw.toml"
 hash = "66e1ed3e329e3ffa72a59acf74fae153157e6fb7d836afedb687b61ec2d8113a"
 metafile = true
@@ -1106,6 +1115,10 @@ hash = "9100888b1153418ccb41b5af053d41e01f297ecd2da2d0ed031819177017638b"
 [[files]]
 file = "resourcepacks/ATM x MSD [v5.0].zip"
 hash = "e18f8d5a276ae6ef0b10f006bc782e51ef1987a3fcfb530d788ee7b818484922"
+
+[[files]]
+file = "resourcepacks/ATM_Legendary_Riding_Models.zip"
+hash = "0aa5772a71b8e8d5c4108df7480a1276476080d5c287b77453c622f2e509092d"
 
 [[files]]
 file = "resourcepacks/Better-Leaves-9.5.zip"
