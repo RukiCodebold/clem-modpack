@@ -1,0 +1,13 @@
+name = "Bonks' Extra Cobblemon Radiants"
+filename = "Bonks' Extra Radiants v1.2.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ARtmbDwu/versions/M4Ymhkqw/Bonks%27%20Extra%20Radiants%20v1.2.zip"
+hash-format = "sha512"
+hash = "644c2d29c192396ba86551b6a2223ba98509fb80fa19389d6e394606bf362eda80b2590f8d64c7eb2f5da83a9539a9e6a2d66539de5fc8b3bea15744045c065f"
+
+[update]
+[update.modrinth]
+mod-id = "ARtmbDwu"
+version = "M4Ymhkqw"

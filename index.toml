@@ -13,10 +13,6 @@ file = "config/ReactiveMusic.json5"
 hash = "4f76465abdff93b44a1b47085419065d4db0924e6c56584c2eb3b6c909a6f21d"
 
 [[files]]
-file = "config/YARL/packs/ATM x MSD [v5.0].zip"
-hash = "e18f8d5a276ae6ef0b10f006bc782e51ef1987a3fcfb530d788ee7b818484922"
-
-[[files]]
 file = "config/YARL/packs/ATM_Legendary_Riding_Models.zip"
 hash = "0aa5772a71b8e8d5c4108df7480a1276476080d5c287b77453c622f2e509092d"
 
@@ -265,6 +261,11 @@ metafile = true
 [[files]]
 file = "mods/advancement-frames.pw.toml"
 hash = "da73a83174283ae1aa73be2bcbd76767cf47946b3d8042ce19c80599e5ec0a83"
+metafile = true
+
+[[files]]
+file = "mods/allthemons-x-mega-showdown-legacy.pw.toml"
+hash = "e076bf51bc6dc4ddc81efcaae6562146e24d2f9a5e11c3d097bbc210a6db40c9"
 metafile = true
 
 [[files]]
@@ -1113,10 +1114,6 @@ file = "resourcepacks/+1.21.3 Fresh Moves v3.1.1 (With Animated Eyes).zip"
 hash = "9100888b1153418ccb41b5af053d41e01f297ecd2da2d0ed031819177017638b"
 
 [[files]]
-file = "resourcepacks/ATM x MSD [v5.0].zip"
-hash = "e18f8d5a276ae6ef0b10f006bc782e51ef1987a3fcfb530d788ee7b818484922"
-
-[[files]]
 file = "resourcepacks/ATM_Legendary_Riding_Models.zip"
 hash = "0aa5772a71b8e8d5c4108df7480a1276476080d5c287b77453c622f2e509092d"
 
@@ -1155,6 +1152,11 @@ hash = "d9bce7583a806dec8b4e7dd7af8e1bf3a7ade5a05d0caced8dcbc4f447ce60f6"
 [[files]]
 file = "resourcepacks/VanillaTweaks_r815523_MC1.21.x.zip"
 hash = "9f88492be0f29bc91fee4f5ee2b6bc19579536aa5ac0be9b5f176ca7822dd89b"
+
+[[files]]
+file = "resourcepacks/bonks-extra-cobblemon-radiants.pw.toml"
+hash = "7dc208f57b0a0b79e4d7c732270a6abfc2d3f95a8bf9b7a3974629c49109760c"
+metafile = true
 
 [[files]]
 file = "resourcepacks/cobblemon-music-pack.pw.toml"
