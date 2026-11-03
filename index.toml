@@ -806,6 +806,11 @@ hash = "31e7b4d016cbdf3f0abbb1ab202cf60e84ff8330ebbf6f043739128fb9133fad"
 metafile = true
 
 [[files]]
+file = "mods/packet-fixer.pw.toml"
+hash = "84cb0dcad9ac46d22adba4fb7924951affa6ac5e46027a3b25fa9a0db8d91b2b"
+metafile = true
+
+[[files]]
 file = "mods/particle-rain.pw.toml"
 hash = "72a6500287806f4136eba481c14fe739db70538db897b4b825aafbf81b37ce4f"
 metafile = true
