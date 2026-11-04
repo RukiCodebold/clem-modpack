@@ -1,13 +1,13 @@
 name = "Pokebelt [Cobblemon]"
-filename = "pokebelt-0.1.4.jar"
+filename = "pokebelt-0.1.5.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/kgst0RnJ/versions/n5PH7alx/pokebelt-0.1.4.jar"
+url = "https://cdn.modrinth.com/data/kgst0RnJ/versions/zfkFSw53/pokebelt-0.1.5.jar"
 hash-format = "sha512"
-hash = "52b6747f7a07f8cb36f07620a304fde19a79af853ee7a76fd9764f635f1b98a72a163baa116f3db53280b6b80e0c48614f0901b938ad3ef64f776f0840f8807c"
+hash = "cee62d0cdee76f2001f9d53b79f8edabba8111e3825b045149359131a790d5b053cf548d168b80b4ca4542a2d28da79b1b4376d83872ae150375705440261701"
 
 [update]
 [update.modrinth]
 mod-id = "kgst0RnJ"
-version = "n5PH7alx"
+version = "zfkFSw53"
