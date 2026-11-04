@@ -571,6 +571,10 @@ hash = "d6819624c02f3640410db46fbce794817d22c1e921d02c8e452be0a42cbee10e"
 metafile = true
 
 [[files]]
+file = "mods/fairylights-shader-fix-1.0.0.jar"
+hash = "4c1df1981a81d7632c563f3f0f4d0b7f7e17c3836b30b77a82aa9520dcdd6ad6"
+
+[[files]]
 file = "mods/fallingleaves.pw.toml"
 hash = "ad4e8689c50fedd770fb5cf28561edbd41f6b483bcfd6e3dd3d0c337789c0110"
 metafile = true
