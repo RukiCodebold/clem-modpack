@@ -379,8 +379,8 @@ hash = "6d511d91e17e09d36b0b0c7065b07eb604146bc9f3df0fbc932948aaf33aa440"
 metafile = true
 
 [[files]]
-file = "mods/clem-hud-1.4.0.jar"
-hash = "54810a508898290e6fd7c49c60fe31da89c4e0fea3cab4048c16a67cba887c8d"
+file = "mods/clem-hud-1.6.1.jar"
+hash = "27b491b4dbe87109205c53df2d78add6bbe53d67aac17e0d7dc833e69f7c1a5e"
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
