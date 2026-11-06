@@ -379,8 +379,12 @@ hash = "6d511d91e17e09d36b0b0c7065b07eb604146bc9f3df0fbc932948aaf33aa440"
 metafile = true
 
 [[files]]
-file = "mods/clem-hud-1.6.1.jar"
-hash = "27b491b4dbe87109205c53df2d78add6bbe53d67aac17e0d7dc833e69f7c1a5e"
+file = "mods/clem-hud-1.7.0.jar"
+hash = "ce270f593f2aeac6df6f5237f3913c689ccfae086c78e050e1a50b04d803bd04"
+
+[[files]]
+file = "mods/clem-photo-contest-1.0.0.jar"
+hash = "54a7a525eeab70fe433600888e602048c9827ae05a6eea485d5a858f70453141"
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
