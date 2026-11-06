@@ -6,12 +6,12 @@
   "blacklistedDimensions": [],
   "savedHomePositions": {
     "saved": {
-      "field_1352": 6609.5,
-      "field_1351": 65.5625,
-      "field_1350": -5234.5
+      "field_1352": 6718.5,
+      "field_1351": 64.5625,
+      "field_1350": -5167.5
     }
   },
   "soundsMuteMusic": [],
-  "soundsMuteMusicIgnoreDistance": [],
+  "soundsMuteMusicIgnoreDistance": ["battle.raid"],
   "hasForcedInitialVolume": true
 }
