@@ -937,12 +937,8 @@ hash = "570b0f010c431efcaacf5210d9747ad671df80a67509ed61c5fe18cf4c9730b6"
 metafile = true
 
 [[files]]
-file = "mods/send-out-cries-1.0.0.jar"
-hash = "94b0d07fc3fcc0f5635f7267afba823f8062c2bac984037a7eda773ce5018a7a"
-
-[[files]]
-file = "mods/send-out-cries-1.0.1.jar"
-hash = "ff8a52714ff9e21f32b5729a017f4fc905e14bfa517b2cee9521617428079aa0"
+file = "mods/send-out-cries-1.0.3.jar"
+hash = "d861780b1b82b117e1b8e93a1260d51f24d30c1f2b78a1f3b361f4054fa9a6d1"
 
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
