@@ -408,7 +408,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-ball-satchel.pw.toml"
-hash = "f111b898a78a66225ba12d1d94c6edc6babe962f92d4a3b5037467da79ef8229"
+hash = "07c8294cbb9c8b334c174f99b10459128a6c407575a448ec7410bd38c05972d6"
 metafile = true
 
 [[files]]
@@ -492,7 +492,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "45fdb757ae3de9df2af3b7d3559cb3c68ce5c395563c05d515337d614f34bc02"
+hash = "dde728e0ab40be1270f746f5ee015c6862799b2baec48774c3ef8011b22836f4"
 metafile = true
 
 [[files]]
@@ -773,7 +773,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "d12419cd451d9e8a75650c956fcfa0510bf3b01306db48d1f52244445b908e38"
+hash = "8c4fbecc7c5866a4ef498106e95041c7af42f6bc2316ce1fac4eb9c74b70d143"
 metafile = true
 
 [[files]]

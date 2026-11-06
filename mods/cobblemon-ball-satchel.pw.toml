@@ -1,13 +1,13 @@
 name = "Cobblemon Ball Satchel"
-filename = "cobblemon-ball-satchel-fabric-1.21.1-v1.10.3.jar"
+filename = "cobblemon-ball-satchel-fabric-1.21.1-v1.11.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/VFi31Zu0/versions/mRGzGjHh/cobblemon-ball-satchel-fabric-1.21.1-v1.10.3.jar"
+url = "https://cdn.modrinth.com/data/VFi31Zu0/versions/Wfg14r6Q/cobblemon-ball-satchel-fabric-1.21.1-v1.11.1.jar"
 hash-format = "sha512"
-hash = "03aa2e102a8b51378f4ca1c690b83c5695bdfd088b4c0898502ed6c28b6e67f6b36c8e1cb20579e422451affb68c6caa14645485e15d61f15f0495d8d30185cb"
+hash = "5ebeb5d95b0f6b47d9777552194c3be2bbf33ac89c4772599dcf7075e0644842a685be4d16e9e7a8f8392311cf876652384f8cb42999b99e6aec7132665de2e4"
 
 [update]
 [update.modrinth]
 mod-id = "VFi31Zu0"
-version = "mRGzGjHh"
+version = "Wfg14r6Q"
