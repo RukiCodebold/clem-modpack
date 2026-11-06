@@ -21,10 +21,6 @@ file = "config/YARL/packs/Clem Custom Paintings - Resource Pack.zip"
 hash = "fedd5e6d51e97b7929470612f1c821f772481a87bbd6453cef8aee00cd0946fb"
 
 [[files]]
-file = "config/YARL/packs/Clem_Missing_Cries.zip"
-hash = "3cd0764d16ca72aa954452a6db3164b33e50a262d0b4661a2f54891ab23f2230"
-
-[[files]]
 file = "config/YARL/packs/E19 Cobblemon Minimap Icons.zip"
 hash = "8ccfa6d0558fe85c570539bcf082ceda5a9f47d4d1f4fa0ebdfd152edcb8aa0d"
 
@@ -935,6 +931,10 @@ metafile = true
 file = "mods/scalablelux.pw.toml"
 hash = "570b0f010c431efcaacf5210d9747ad671df80a67509ed61c5fe18cf4c9730b6"
 metafile = true
+
+[[files]]
+file = "mods/send-out-cries-1.0.0.jar"
+hash = "94b0d07fc3fcc0f5635f7267afba823f8062c2bac984037a7eda773ce5018a7a"
 
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
