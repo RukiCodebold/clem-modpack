@@ -314,6 +314,11 @@ hash = "548fd4fb575afda9a809d45bace11a95aae191f632a90f0dde4014b9829f6e0c"
 metafile = true
 
 [[files]]
+file = "mods/badoptimizations.pw.toml"
+hash = "dd56ff2bcc4253d1d70c08333632743fb56cdc4cf5518dc6afc024164633145d"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "f8bf884ab53c3fd72d4b849f6636288c20486e53f109a5c0f4fd83266959a345"
 metafile = true
@@ -619,6 +624,11 @@ hash = "2600fb5f2efa6dffd1bcc04eea4c2646c101da4320da0c88d5616d5c2f41a439"
 metafile = true
 
 [[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "9a98d8e1a0e8453f43fa01b8c0c0de6b93058b4784c9c2f54f0fbda9588da682"
+metafile = true
+
+[[files]]
 file = "mods/improved-village-placement.pw.toml"
 hash = "01b2699d922fb2b21450349f51c964e396020f7be780433b93e691a27bf0bd0e"
 metafile = true
@@ -747,6 +757,11 @@ hash = "1d050a30412c6c7cb26b622b598b4211454116fb200a99425ba9440a167e9ec9"
 metafile = true
 
 [[files]]
+file = "mods/modernfix.pw.toml"
+hash = "b9651d06e56ad51c1cdcf4b03b6a34328b7dc941f263ff92b189ee26a47cc224"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "62f164a7b7c8731436389dc1855862d1eb1fa73fd76407b0fb8d129b7b6f00a9"
 metafile = true
@@ -769,6 +784,11 @@ metafile = true
 [[files]]
 file = "mods/more-radical-trainers-1.8.1.jar"
 hash = "9b9aefc03ae5f986e3741367d10efba3df573cab8f1ef07ccad75321cf1b7da9"
+
+[[files]]
+file = "mods/moreculling.pw.toml"
+hash = "fb61cbe844cc739a6bba30c703c0047f2e21e343f8d4b61e30a27d3bc5cc2840"
+metafile = true
 
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
