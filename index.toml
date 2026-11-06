@@ -379,8 +379,8 @@ hash = "6d511d91e17e09d36b0b0c7065b07eb604146bc9f3df0fbc932948aaf33aa440"
 metafile = true
 
 [[files]]
-file = "mods/clem-hud-1.7.0.jar"
-hash = "ce270f593f2aeac6df6f5237f3913c689ccfae086c78e050e1a50b04d803bd04"
+file = "mods/clem-hud-1.7.1.jar"
+hash = "5d2ec54d6f9a2144825ee994236b43472a111522c20e9dcc216996973138b15f"
 
 [[files]]
 file = "mods/clem-photo-contest-1.0.0.jar"
