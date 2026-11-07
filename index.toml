@@ -1039,6 +1039,11 @@ hash = "2f05b23513f7682101e2ab609964833f1b4e8557a3c9b272f7c51d9dfa7ad254"
 metafile = true
 
 [[files]]
+file = "mods/tails-legacy.pw.toml"
+hash = "ab88a997670563bd910587dda21caa8561403b575a100d4b3b35f8fd79a7c604"
+metafile = true
+
+[[files]]
 file = "mods/tectonic.pw.toml"
 hash = "f1bfac1c5060b9e0ec9166de25bce8305d16dee48fb31583380567c37ee6b349"
 metafile = true

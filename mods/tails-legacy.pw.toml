@@ -1,0 +1,13 @@
+name = "Tails Legacy"
+filename = "TailsLegacy-4.0.4+1.21.1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/MUD8QUkv/versions/omP1NKwh/TailsLegacy-4.0.4%2B1.21.1-fabric.jar"
+hash-format = "sha512"
+hash = "400aad5666c94b30b67675876c264e31ba04409b0ad33e614137c60e546d454576e0a3c2b53848236b79c7c7e4e405b60aea2d67d7871b5ec92634ff5bb59905"
+
+[update]
+[update.modrinth]
+mod-id = "MUD8QUkv"
+version = "omP1NKwh"
