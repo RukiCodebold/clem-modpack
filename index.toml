@@ -287,6 +287,11 @@ hash = "9d0fa5bcf0c786acd008d55bd6573d3a38fbe9261b641ab84f36f02183cdb235"
 metafile = true
 
 [[files]]
+file = "mods/amecs.pw.toml"
+hash = "34252ff1af7c44739d405fcddbc85735931308e9673f9e821d02be0a4b8ba7cc"
+metafile = true
+
+[[files]]
 file = "mods/animal_feeding_trough.pw.toml"
 hash = "36b311ab2c828ad8c490b539ae0cffdac8438be7c997a71a1c782af924114c15"
 metafile = true
@@ -505,6 +510,11 @@ metafile = true
 [[files]]
 file = "mods/collective.pw.toml"
 hash = "dde728e0ab40be1270f746f5ee015c6862799b2baec48774c3ef8011b22836f4"
+metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
+hash = "eecdc8127f69c74ff55fd183d1f1d7d5ef3e714d73845a239fe9e086147a67b1"
 metafile = true
 
 [[files]]
@@ -947,6 +957,11 @@ metafile = true
 [[files]]
 file = "mods/scalablelux.pw.toml"
 hash = "570b0f010c431efcaacf5210d9747ad671df80a67509ed61c5fe18cf4c9730b6"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "8302da862578554b012b2cfe58a3c1e75b514d09f94d842e7303be41a2157aeb"
 metafile = true
 
 [[files]]
