@@ -55,6 +55,10 @@ hash = "c47bc91ff99e24feefd01bef5a713ee9a1015c85d1b7558989dfd6ab5ba373f0"
 metafile = true
 
 [[files]]
+file = "config/accessories.json5"
+hash = "1d9ed24f0b24686de7c6240f73f22863a593e10d1392f6bf32cc08be946abfe0"
+
+[[files]]
 file = "config/fancymenu/assets/cm_textures/background.png"
 hash = "4f841b2c18aff6ae6092819d0c1089b903f7a005ce095235a1c6d7b4af2146ad"
 
@@ -383,8 +387,8 @@ hash = "6d511d91e17e09d36b0b0c7065b07eb604146bc9f3df0fbc932948aaf33aa440"
 metafile = true
 
 [[files]]
-file = "mods/clem-hud-1.7.1.jar"
-hash = "5d2ec54d6f9a2144825ee994236b43472a111522c20e9dcc216996973138b15f"
+file = "mods/clem-hud-1.7.4.jar"
+hash = "7da027f372d37cc6ec1743fe9132bb248d1d7ce76950bbb7a653ccd3d9bb7aeb"
 
 [[files]]
 file = "mods/clem-photo-contest-1.0.0.jar"
@@ -862,6 +866,11 @@ hash = "a43422c4e8b2a1d1d608633dcead23ad045488538f6beac4a49d3c0f978a22ce"
 metafile = true
 
 [[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "f89967ea9150d6e5371057dc31fc8b8180c79808410ee6318088fcf78a16f58f"
+metafile = true
+
+[[files]]
 file = "mods/pokebelt-cobblemon.pw.toml"
 hash = "00b5b7ac05af3d0e012831c37fdb8e66c3ba479bb41d450f4177dd1c0dd4bc36"
 metafile = true
@@ -948,6 +957,11 @@ metafile = true
 [[files]]
 file = "mods/simple-villager-follow.pw.toml"
 hash = "bfdac7ba5bc363329d43a76dc63cc21de97d3fe3b6d03f21c36fe4ae509661cc"
+metafile = true
+
+[[files]]
+file = "mods/sitting-plus.pw.toml"
+hash = "6849cbe791205308a6cb7e6d06172dca663446f7c6573ee2ce10f537aef9f16a"
 metafile = true
 
 [[files]]
