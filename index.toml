@@ -861,11 +861,6 @@ hash = "84cb0dcad9ac46d22adba4fb7924951affa6ac5e46027a3b25fa9a0db8d91b2b"
 metafile = true
 
 [[files]]
-file = "mods/particle-rain.pw.toml"
-hash = "86488986b07582dc9589de8fc39a3d52970898f1ebf211fbe17831e9a8d16bf5"
-metafile = true
-
-[[files]]
 file = "mods/placeholder-api.pw.toml"
 hash = "2e2c1b47b513663871e71c89a699c66ac9fcc97633f007ed064ce4410f220f5a"
 metafile = true
