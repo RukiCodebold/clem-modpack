@@ -601,6 +601,10 @@ hash = "4e2eeb7938db3ea3bfb37a8e3bf5b493a8ff6301789e636f30a8dfcb1fccac81"
 metafile = true
 
 [[files]]
+file = "mods/exposure-lightroom-fix-1.0.0.jar"
+hash = "ae51b4faff46f6af534b6ab189d2ccc3147d6bb3c0a7367578e075a4e6a97f58"
+
+[[files]]
 file = "mods/exposure.pw.toml"
 hash = "20af764affa7c65142b1adc0055f718a98abbd1f45ac6e11b2a9d7e2ddef7c60"
 metafile = true
