@@ -444,6 +444,11 @@ hash = "d3e93c4f9540a8b5362ec6ccdca85b54bcb5ded43e737a3d904f29e767ca9a4f"
 metafile = true
 
 [[files]]
+file = "mods/cobblemon-incubator.pw.toml"
+hash = "57b40b4527fcf1b1ea7bb458dc502df7a4b08e900fbf1b374192d034d0219079"
+metafile = true
+
+[[files]]
 file = "mods/cobblemon-integrations.pw.toml"
 hash = "06cadd5fcdac84ad611e8f5bcdda7169488586286a7b158800330a0bd5d8e375"
 metafile = true

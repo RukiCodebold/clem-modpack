@@ -1,0 +1,13 @@
+name = "Cobblemon Incubator"
+filename = "cobblemon_incubator-fabric-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/iCjYB9NB/versions/RUwa6N5A/cobblemon_incubator-fabric-1.1.1.jar"
+hash-format = "sha512"
+hash = "eea6b08e62e9804de2c8f772398903489dc664b4ca05f2b307eab037aad380ca8e52e5bbf05b1f495d196728fd717e3700ccb971be04a11fe1294a452d0114b1"
+
+[update]
+[update.modrinth]
+mod-id = "iCjYB9NB"
+version = "RUwa6N5A"
