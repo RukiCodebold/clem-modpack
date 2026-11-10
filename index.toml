@@ -396,8 +396,8 @@ file = "mods/clem-hud-1.7.4.jar"
 hash = "7da027f372d37cc6ec1743fe9132bb248d1d7ce76950bbb7a653ccd3d9bb7aeb"
 
 [[files]]
-file = "mods/clem-photo-contest-1.4.1.jar"
-hash = "d408cb8368129cbfcb6ff8164a18f60031894748f4feeb8eceb482a13251754f"
+file = "mods/clem-photo-contest-1.5.0.jar"
+hash = "072a4533c3cf861f1b9591cea4e4f5f87c730f0a7a742e5eb3db2805e240883d"
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
