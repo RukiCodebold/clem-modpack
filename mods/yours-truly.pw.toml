@@ -1,0 +1,13 @@
+name = "Yours Truly"
+filename = "yourstruly-fabric-1.0.1+mc1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/IaNRtr0L/versions/muJ82HkX/yourstruly-fabric-1.0.1%2Bmc1.21.1.jar"
+hash-format = "sha512"
+hash = "822b3526ee0fb34fc35f36ee4d41ea10ac4cbdcc0f8dd70ef152adc5e44a3b84273b90c9dba40875b361288351b844e26ef57d0ee4b12a2567e2f4db85f7579b"
+
+[update]
+[update.modrinth]
+mod-id = "IaNRtr0L"
+version = "muJ82HkX"

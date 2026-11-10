@@ -592,6 +592,16 @@ hash = "e94acf8533961d33ddb5b4ddc36562d11edabfa970fe1718d579ffd706e88552"
 metafile = true
 
 [[files]]
+file = "mods/envelope.pw.toml"
+hash = "4e2eeb7938db3ea3bfb37a8e3bf5b493a8ff6301789e636f30a8dfcb1fccac81"
+metafile = true
+
+[[files]]
+file = "mods/exposure.pw.toml"
+hash = "20af764affa7c65142b1adc0055f718a98abbd1f45ac6e11b2a9d7e2ddef7c60"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "9645e76b2915aa43b0918e1ef20e1c01b64ba9073e35c8bcd70cf34af8ab604e"
 metafile = true
@@ -1176,6 +1186,11 @@ metafile = true
 [[files]]
 file = "mods/yosbr.pw.toml"
 hash = "649c259a4777ba1b544b69d04a79f2b1b0e1a3c520033cc86a3c14d5fa53564a"
+metafile = true
+
+[[files]]
+file = "mods/yours-truly.pw.toml"
+hash = "cd2372c340b3194c2d9c05ad6a0ab906903bfdf1a36faf2eb2ac15e042365a63"
 metafile = true
 
 [[files]]
