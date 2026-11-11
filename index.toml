@@ -29,6 +29,10 @@ file = "config/YARL/packs/Clem_Real_Cries.zip"
 hash = "0e268edc5f276d723ee0d694756fbe57d8a456bde4d3bf5e53d73b3e9cba1860"
 
 [[files]]
+file = "config/YARL/packs/Cobblemon Interface v1.6.0.zip"
+hash = "eb40bd047c2e1443c43731e4d1ef1b9d7d0624476336f540b52a3e8fcb9eb315"
+
+[[files]]
 file = "config/YARL/packs/Cobblemotion v1.6.zip"
 hash = "6ed89c7197418335a170b5ea47b1d8ec2328fbfa36b5122944fbbda6f4a1e556"
 
@@ -57,8 +61,8 @@ file = "config/YARL/packs/VanillaTweaks_r815523_MC1.21.x.zip"
 hash = "9f88492be0f29bc91fee4f5ee2b6bc19579536aa5ac0be9b5f176ca7822dd89b"
 
 [[files]]
-file = "config/YARL/packs/cobblemon-music-pack.pw.toml"
-hash = "2126b9fa57aa67bc776ec154fe9e296be0a230ec7b2182c2eefb2a4131234286"
+file = "config/YARL/packs/bonks-extra-cobblemon-radiants.pw.toml"
+hash = "7dc208f57b0a0b79e4d7c732270a6abfc2d3f95a8bf9b7a3974629c49109760c"
 metafile = true
 
 [[files]]
@@ -1234,28 +1238,8 @@ file = "resourcepacks/+1.21.3 Fresh Moves v3.1.1 (With Animated Eyes).zip"
 hash = "9100888b1153418ccb41b5af053d41e01f297ecd2da2d0ed031819177017638b"
 
 [[files]]
-file = "resourcepacks/ATM_Legendary_Riding_Models.zip"
-hash = "0aa5772a71b8e8d5c4108df7480a1276476080d5c287b77453c622f2e509092d"
-
-[[files]]
 file = "resourcepacks/Better-Leaves-9.5.zip"
 hash = "5480640cb2f7674da4f2897ebc48b29a436706614160f4d4d8ad0ead5150fea6"
-
-[[files]]
-file = "resourcepacks/Clem Custom Paintings - Resource Pack.zip"
-hash = "fedd5e6d51e97b7929470612f1c821f772481a87bbd6453cef8aee00cd0946fb"
-
-[[files]]
-file = "resourcepacks/Cobblemon Interface v1.6.0.zip"
-hash = "eb40bd047c2e1443c43731e4d1ef1b9d7d0624476336f540b52a3e8fcb9eb315"
-
-[[files]]
-file = "resourcepacks/E19 Cobblemon Minimap Icons.zip"
-hash = "8ccfa6d0558fe85c570539bcf082ceda5a9f47d4d1f4fa0ebdfd152edcb8aa0d"
-
-[[files]]
-file = "resourcepacks/Extremely_Sus_Sand_v1-0-5.zip"
-hash = "f52499d7368a3c9a566c60b634c7a5a6b35289613c9bd1923b1b60b3dbcbebf0"
 
 [[files]]
 file = "resourcepacks/Maxi's-JM+CM_Pixel-U11.zip"
@@ -1272,11 +1256,6 @@ hash = "d9bce7583a806dec8b4e7dd7af8e1bf3a7ade5a05d0caced8dcbc4f447ce60f6"
 [[files]]
 file = "resourcepacks/VanillaTweaks_r815523_MC1.21.x.zip"
 hash = "9f88492be0f29bc91fee4f5ee2b6bc19579536aa5ac0be9b5f176ca7822dd89b"
-
-[[files]]
-file = "resourcepacks/bonks-extra-cobblemon-radiants.pw.toml"
-hash = "7dc208f57b0a0b79e4d7c732270a6abfc2d3f95a8bf9b7a3974629c49109760c"
-metafile = true
 
 [[files]]
 file = "resourcepacks/cobblemon-music-pack.pw.toml"
