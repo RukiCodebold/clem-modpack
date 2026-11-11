@@ -311,6 +311,11 @@ hash = "0fb3808193da9b587367337d12d202d7b006e2522637a6502913d66a84f8626f"
 metafile = true
 
 [[files]]
+file = "mods/asymmetric-battles-api.pw.toml"
+hash = "0bda9b92b49fe8c37b36a2938a2d8f46d88041a9bdd6f9a464809d6ab60cdb63"
+metafile = true
+
+[[files]]
 file = "mods/async-locator-refined.pw.toml"
 hash = "dabd4625cfa48c565b70c9cf0443eb4d162299267eb996b89c5aa414dc101132"
 metafile = true
