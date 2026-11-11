@@ -29,12 +29,20 @@ file = "config/YARL/packs/Clem_Real_Cries.zip"
 hash = "0e268edc5f276d723ee0d694756fbe57d8a456bde4d3bf5e53d73b3e9cba1860"
 
 [[files]]
+file = "config/YARL/packs/Cobblemotion v1.6.zip"
+hash = "6ed89c7197418335a170b5ea47b1d8ec2328fbfa36b5122944fbbda6f4a1e556"
+
+[[files]]
 file = "config/YARL/packs/E19 Cobblemon Minimap Icons.zip"
 hash = "8ccfa6d0558fe85c570539bcf082ceda5a9f47d4d1f4fa0ebdfd152edcb8aa0d"
 
 [[files]]
 file = "config/YARL/packs/Extremely_Sus_Sand_v1-0-5.zip"
 hash = "f52499d7368a3c9a566c60b634c7a5a6b35289613c9bd1923b1b60b3dbcbebf0"
+
+[[files]]
+file = "config/YARL/packs/Fully Hisuian Starters 1.1.2.zip"
+hash = "37b04d87e51793453b581371de05289b5ffdc54afc0819c896d4aaef87021ea7"
 
 [[files]]
 file = "config/YARL/packs/Pumpkin_Fix.zip"
