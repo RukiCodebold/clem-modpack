@@ -1,13 +1,13 @@
 name = "Pokemon Fly Transitions"
-filename = "pokemon-fly-transitions-fabric-1.9.0.jar"
+filename = "pokemon-fly-transitions-fabric-2.0.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/wAMnR5GO/versions/iCys1vTh/pokemon-fly-transitions-fabric-1.9.0.jar"
+url = "https://cdn.modrinth.com/data/wAMnR5GO/versions/CvWhu9Qr/pokemon-fly-transitions-fabric-2.0.0.jar"
 hash-format = "sha512"
-hash = "614e3657a12b02fe6001b2d9e645fc186f2ca2d6cb20e2d19f6b2c848b30348405f1e5908ff4024e4d6cd4d6ce7e0a8e559a90f0b597f6b07999c9612b6ad2ce"
+hash = "5bc3d5b0e8d0723ac7f1a415994e9abba114270c717e2396819bf57ff13b46892e03c3c0e01c73bce37864fd776ecc9205e5202858ab0a026cf88319fc289876"
 
 [update]
 [update.modrinth]
 mod-id = "wAMnR5GO"
-version = "iCys1vTh"
+version = "CvWhu9Qr"

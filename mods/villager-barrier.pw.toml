@@ -1,13 +1,13 @@
 name = "Villager Barrier"
-filename = "villagerbarrier-1.0.3.jar"
+filename = "villagerbarrier-1.0.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/a0iJwRB2/versions/eNCcdlfW/villagerbarrier-1.0.3.jar"
+url = "https://cdn.modrinth.com/data/a0iJwRB2/versions/Walv0eK1/villagerbarrier-1.0.4.jar"
 hash-format = "sha512"
-hash = "214ab684a680de3f26f70d40b04c81def5aeb1fc944713d8b8f9697f5750841a1331fb1ca3e1ea2c91d125725327636c0498a577a3dadc6b65569e8f0abfbbed"
+hash = "f7687f3bfb941f7645fb5d973aa1ebde30e1166f6d31a90497aa511023f3e7dc94066f3a5981355b14e50b133b769b78e18ad488973d383f53a40298310348a1"
 
 [update]
 [update.modrinth]
 mod-id = "a0iJwRB2"
-version = "eNCcdlfW"
+version = "Walv0eK1"

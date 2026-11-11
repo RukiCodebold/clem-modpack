@@ -377,7 +377,7 @@ metafile = true
 
 [[files]]
 file = "mods/chefs-delight.pw.toml"
-hash = "55f058aab9ec652e99af38a83eeae17eafe670d7cbdf386b6cfb884f6aca477b"
+hash = "a607287221ab8f7b52d01166040970a0d1812dda24668544a0cd4cd64ab8bd67"
 metafile = true
 
 [[files]]
@@ -434,7 +434,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-battle-tower.pw.toml"
-hash = "4618bdbb401efc2249b5b42d0f10dd9f7ea98cf792722353f338e4538d6328e9"
+hash = "d848610b5514eccb9583edf678e6f6873b17580e5f52a7ccd18c72e0bcc59eeb"
 metafile = true
 
 [[files]]
@@ -444,7 +444,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-fight-or-flight-reborn.pw.toml"
-hash = "d3e93c4f9540a8b5362ec6ccdca85b54bcb5ded43e737a3d904f29e767ca9a4f"
+hash = "6de2b9de2a556c027f811ad9967a70b67e2ee35d1b7104902c177b1959652397"
 metafile = true
 
 [[files]]
@@ -484,7 +484,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-tim-core.pw.toml"
-hash = "473262e30c9451517acf9e22aa8830102227eeaf64fcaa0cf359d9ec0c6fe00f"
+hash = "8101ba02439132517f5035ee7f4b8d1cf61f19e01df89bb727928e9ce1b650ea"
 metafile = true
 
 [[files]]
@@ -499,7 +499,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemonraiddens.pw.toml"
-hash = "1195ca01772162cd080300582ee5120889156b31cd09be137235b04f04e4a7ff"
+hash = "ebec5092ba24e35da979350fe266f9183f2da92053a7896952881842a33e5ace"
 metafile = true
 
 [[files]]
@@ -518,7 +518,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "dde728e0ab40be1270f746f5ee015c6862799b2baec48774c3ef8011b22836f4"
+hash = "1c9f21b7aa723402f2685c0cd531a90316b06bff0e78f20ab0b60712a56cc274"
 metafile = true
 
 [[files]]
@@ -611,7 +611,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "9645e76b2915aa43b0918e1ef20e1c01b64ba9073e35c8bcd70cf34af8ab604e"
+hash = "1ed7a6439d9c3cd9bc8e7db6a4362eb710de0f4da90b619f883e99f5765e96c0"
 metafile = true
 
 [[files]]
@@ -635,7 +635,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "716d7441fa0fb1f72ff604af76de6ee595687aaf817381cac32f63349f72103a"
+hash = "eabd4c165faa8a9856264145b56860aca7d580af450e65e45d1f35b5505acb46"
 metafile = true
 
 [[files]]
@@ -818,7 +818,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "8c4fbecc7c5866a4ef498106e95041c7af42f6bc2316ce1fac4eb9c74b70d143"
+hash = "5b44f9d615e53f911b47b89aec48a255a462023ab25313adeaaeb67ebf77cc43"
 metafile = true
 
 [[files]]
@@ -910,7 +910,7 @@ metafile = true
 
 [[files]]
 file = "mods/pokemon-fly-transitions.pw.toml"
-hash = "b8973df191417505ce070c833f10e82ccf60e62dd323489507f208faf70c97ee"
+hash = "8d03566348330f2e613722a00702a002d58b883d390cafc3238ce8a509b8819b"
 metafile = true
 
 [[files]]
@@ -1059,7 +1059,7 @@ metafile = true
 
 [[files]]
 file = "mods/streams-reflowing.pw.toml"
-hash = "53694ac8c4cfb043390e8173df6bad02517bfdeadb400c515f30f21e2edb40d2"
+hash = "5fcfe9f44e25b986d95aef005641db10fbacbf39c2c6f5f843acd0ee31967a26"
 metafile = true
 
 [[files]]
@@ -1143,7 +1143,7 @@ hash = "5663da5ff8a0170f61f29b7479a83d06f1d7e3c3b40fc3a348eac9a6fe98222b"
 
 [[files]]
 file = "mods/villager-barrier.pw.toml"
-hash = "699530b635af5a8614439f067d4f1997f79abb70dd7b08bea6fce70de86180c4"
+hash = "505eb0b96e2e45997e01bf17c7d18ae0be797a78f99d46d07d8c4551ae7d663c"
 metafile = true
 
 [[files]]
