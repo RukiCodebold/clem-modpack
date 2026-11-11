@@ -1053,6 +1053,11 @@ hash = "f2feec4a404ea1ebff1cbc8ef801d074fc8c4a528af064fd9c125f5c9e57c824"
 metafile = true
 
 [[files]]
+file = "mods/soundscape.pw.toml"
+hash = "cfe4a7ff40f77e1ea673dc53e17be609498a667d185862eaf654133a7b6cdd1c"
+metafile = true
+
+[[files]]
 file = "mods/spuds-shops.pw.toml"
 hash = "71a11eab06d7694ac2c6afe680036c694d98289f4ea6adb4c44a0112fd0ac8f4"
 metafile = true
