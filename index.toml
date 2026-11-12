@@ -33,10 +33,6 @@ file = "config/YARL/packs/Cobblemon Interface v1.6.0.zip"
 hash = "eb40bd047c2e1443c43731e4d1ef1b9d7d0624476336f540b52a3e8fcb9eb315"
 
 [[files]]
-file = "config/YARL/packs/Cobblemotion v1.6.zip"
-hash = "6ed89c7197418335a170b5ea47b1d8ec2328fbfa36b5122944fbbda6f4a1e556"
-
-[[files]]
 file = "config/YARL/packs/E19 Cobblemon Minimap Icons.zip"
 hash = "8ccfa6d0558fe85c570539bcf082ceda5a9f47d4d1f4fa0ebdfd152edcb8aa0d"
 
@@ -257,6 +253,10 @@ hash = "cfa46554bbb027efe3c2184a073ee652000acac2500cd5136764f901355ec0cd"
 [[files]]
 file = "config/fancymenu/user_variables.db"
 hash = "653d0e0c2efd1d1a97c5ad9379cb59b8a2496e1defde33f154ad05c91663766a"
+
+[[files]]
+file = "config/streamsreflowing.properties"
+hash = "683296db53a32d4789ece115f04f1072c673fd8a449a78a3d6d10ae1240a04b2"
 
 [[files]]
 file = "fancymenu_data/last_world.fmdata"
