@@ -544,6 +544,11 @@ hash = "eecdc8127f69c74ff55fd183d1f1d7d5ef3e714d73845a239fe9e086147a67b1"
 metafile = true
 
 [[files]]
+file = "mods/cosmetica.pw.toml"
+hash = "a26f5dab65273a4fe854db8548a865f31353162bb6e6b64094981c3384f8d01c"
+metafile = true
+
+[[files]]
 file = "mods/crafting-tweaks.pw.toml"
 hash = "9fbc006e8d4d3633c3841a6415ff0ecb1da037cd5ed68d2444f6702e8bfad582"
 metafile = true

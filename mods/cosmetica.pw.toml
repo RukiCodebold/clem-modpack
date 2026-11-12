@@ -1,0 +1,13 @@
+name = "Cosmetica"
+filename = "cosmetica-fabric-2.0.2-1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/s9hF9QGp/versions/rnOmhgGl/cosmetica-fabric-2.0.2-1.21.1.jar"
+hash-format = "sha512"
+hash = "70bb8c554e50244e5d6fd07c5afaf77fe0e1d6332d30488ad919b915fa904cfb4eddb452df52b8f8f91699c8b13422c020073ba85a5da165c3caba1717ba1e45"
+
+[update]
+[update.modrinth]
+mod-id = "s9hF9QGp"
+version = "rnOmhgGl"
