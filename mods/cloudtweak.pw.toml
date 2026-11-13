@@ -1,0 +1,13 @@
+name = "CloudTweak"
+filename = "CloudTweak-2.0.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/veUtEBgN/versions/fbx7qClq/CloudTweak-2.0.1.jar"
+hash-format = "sha512"
+hash = "e755eb21951d6be8e4acd5a88945f3b8a51897ceb0a0c5b6c16a82502dd7b86b8b73cbf86b8978afed2bb48198f6645d5c9ac979c0be6274a22fc37544e1a3ce"
+
+[update]
+[update.modrinth]
+mod-id = "veUtEBgN"
+version = "fbx7qClq"
