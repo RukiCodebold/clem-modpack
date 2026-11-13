@@ -431,6 +431,11 @@ hash = "fe84e2227c405bf9b735f01f307a01768784b9d49df82a13ecda3d3b6d198507"
 metafile = true
 
 [[files]]
+file = "mods/cobble-pc-sort.pw.toml"
+hash = "50dd7e58e87949f85d640863659da10ec5602d46e74cb41fbd1ab427a7d5503c"
+metafile = true
+
+[[files]]
 file = "mods/cobbled-armour-trims-3.2.jar"
 hash = "bf219e187c442cc64c360386505bc5acdeb68e042cabeb5902b9106c83830257"
 
