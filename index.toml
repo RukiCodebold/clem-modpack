@@ -393,8 +393,8 @@ hash = "d2af448d2290681195037eb0db0b5ba85fbc5a625e11023948dd87f49b68089c"
 metafile = true
 
 [[files]]
-file = "mods/chalk.pw.toml"
-hash = "29a90ec598079873af005a152123b17fdf81323b06640f73a25c8e2663b91cf6"
+file = "mods/chalk-mod.pw.toml"
+hash = "61c5e0d7c74ab93cd9e528730d2923aa66da91a70f8a303bcf7bc911666b4155"
 metafile = true
 
 [[files]]
