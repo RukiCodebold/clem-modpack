@@ -304,7 +304,7 @@ metafile = true
 
 [[files]]
 file = "mods/amecs.pw.toml"
-hash = "144f5d4405a869f712312a94ff612fb6e69321d127002cb86190ea43df14e53f"
+hash = "34252ff1af7c44739d405fcddbc85735931308e9673f9e821d02be0a4b8ba7cc"
 metafile = true
 
 [[files]]
@@ -423,8 +423,8 @@ hash = "6d511d91e17e09d36b0b0c7065b07eb604146bc9f3df0fbc932948aaf33aa440"
 metafile = true
 
 [[files]]
-file = "mods/clem-hud-1.8.6.jar"
-hash = "67de47fe989eed99508d0aefc5f2f83b2ecdd27bbc79eefdbe40a6a001242473"
+file = "mods/clem-hud-1.9.0.jar"
+hash = "b6af35eabb1c38eb6f92822658f1fba433003ccc160be6b19bd3e25d34768160"
 
 [[files]]
 file = "mods/clem-photo-contest-1.7.1.jar"
