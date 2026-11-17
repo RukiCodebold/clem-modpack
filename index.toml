@@ -57,11 +57,6 @@ file = "config/YARL/packs/VanillaTweaks_r815523_MC1.21.x.zip"
 hash = "9f88492be0f29bc91fee4f5ee2b6bc19579536aa5ac0be9b5f176ca7822dd89b"
 
 [[files]]
-file = "config/YARL/packs/bonks-extra-cobblemon-radiants.pw.toml"
-hash = "7dc208f57b0a0b79e4d7c732270a6abfc2d3f95a8bf9b7a3974629c49109760c"
-metafile = true
-
-[[files]]
 file = "config/YARL/packs/cobblesounds.pw.toml"
 hash = "c47bc91ff99e24feefd01bef5a713ee9a1015c85d1b7558989dfd6ab5ba373f0"
 metafile = true
@@ -429,6 +424,10 @@ hash = "b6af35eabb1c38eb6f92822658f1fba433003ccc160be6b19bd3e25d34768160"
 [[files]]
 file = "mods/clem-photo-contest-1.7.1.jar"
 hash = "64837370b21ea37bfce6e448d3b841827a373701253cc9d4e14e8702444a7503"
+
+[[files]]
+file = "mods/clem-tunes-1.0.4.jar"
+hash = "14faf16642a37c4c59e846cd4ad45e499fe89834c9ba88d6582edcfb0a85c25e"
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
