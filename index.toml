@@ -426,8 +426,8 @@ file = "mods/clem-photo-contest-1.7.1.jar"
 hash = "64837370b21ea37bfce6e448d3b841827a373701253cc9d4e14e8702444a7503"
 
 [[files]]
-file = "mods/clem-tunes-1.0.4.jar"
-hash = "14faf16642a37c4c59e846cd4ad45e499fe89834c9ba88d6582edcfb0a85c25e"
+file = "mods/clem-tunes-1.0.5.jar"
+hash = "68d6b4a669743389abd50022b96f2034dba13c79e0641ab31912ed223efeb819"
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
