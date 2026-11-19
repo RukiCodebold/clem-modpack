@@ -426,6 +426,10 @@ file = "mods/clem-hud-1.9.1.jar"
 hash = "6bc2bf373a4aaf2af64d34e1469dbbeed765f9b77a843d3687f02354302b6bf0"
 
 [[files]]
+file = "mods/clem-jukebox-style-1.0.0.jar"
+hash = "b7812a228728c7f78570f77920b1f58796b30156189c9bcc4fc3e603ee39200f"
+
+[[files]]
 file = "mods/clem-photo-contest-1.7.1.jar"
 hash = "64837370b21ea37bfce6e448d3b841827a373701253cc9d4e14e8702444a7503"
 
