@@ -438,6 +438,10 @@ file = "mods/clem-tunes-1.0.5.jar"
 hash = "68d6b4a669743389abd50022b96f2034dba13c79e0641ab31912ed223efeb819"
 
 [[files]]
+file = "mods/clem-wayfinder-1.0.2.jar"
+hash = "3097118dddbcb443ae1ba0c4b687e8a624ecb5406d47f5319ddad4b6796d7715"
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "446c173c87b7908daee86b0dee89c6b628c77beb7a0bc091ff5252b7c0062080"
 metafile = true
