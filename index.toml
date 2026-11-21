@@ -418,8 +418,8 @@ hash = "6d511d91e17e09d36b0b0c7065b07eb604146bc9f3df0fbc932948aaf33aa440"
 metafile = true
 
 [[files]]
-file = "mods/clem-fishing-2.4.0.jar"
-hash = "77ab55b4338a20fe568e1bff1fa1e166fe98c1e3ae84fcee329ea402d900dd53"
+file = "mods/clem-fishing-2.4.1.jar"
+hash = "a8368b8e602254e0328ad5b67fd3388888189eda34d977c86d64cd5cfc5c800a"
 
 [[files]]
 file = "mods/clem-hud-1.9.1.jar"
