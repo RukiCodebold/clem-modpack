@@ -1,13 +1,13 @@
 name = "Asymmetric Battles API"
-filename = "asymmetricbattles-fabric-1.4.2+1.21.1.jar"
+filename = "asymmetricbattles-fabric-1.4.4+1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/sI88vVWl/versions/8SKIm6Cl/asymmetricbattles-fabric-1.4.2%2B1.21.1.jar"
+url = "https://cdn.modrinth.com/data/sI88vVWl/versions/4tXgx64l/asymmetricbattles-fabric-1.4.4%2B1.21.1.jar"
 hash-format = "sha512"
-hash = "b860c35eaf469dc821eed0decb699c0b215c18206a815e6c06baf695b8da9d129a05171e73aa168838dda40db25dfdb9a458f26fca21c0c6d2a187ff8ebdb255"
+hash = "3c8c958979d55db5a929df839e50c053fe8de1bd113f170d90da1ee3a1535216f3b11984d25cb260e91686f491a7ec7671fbe7741b90f1d394522a2e58b1dfd0"
 
 [update]
 [update.modrinth]
 mod-id = "sI88vVWl"
-version = "8SKIm6Cl"
+version = "4tXgx64l"

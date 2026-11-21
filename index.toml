@@ -299,7 +299,7 @@ metafile = true
 
 [[files]]
 file = "mods/amecs.pw.toml"
-hash = "34252ff1af7c44739d405fcddbc85735931308e9673f9e821d02be0a4b8ba7cc"
+hash = "144f5d4405a869f712312a94ff612fb6e69321d127002cb86190ea43df14e53f"
 metafile = true
 
 [[files]]
@@ -319,7 +319,7 @@ metafile = true
 
 [[files]]
 file = "mods/asymmetric-battles-api.pw.toml"
-hash = "0bda9b92b49fe8c37b36a2938a2d8f46d88041a9bdd6f9a464809d6ab60cdb63"
+hash = "af5c15e8106d51bba9bc25415c4c3bdaa00efb72e6fa7d1e49c65134afcb04b9"
 metafile = true
 
 [[files]]
@@ -418,8 +418,8 @@ hash = "6d511d91e17e09d36b0b0c7065b07eb604146bc9f3df0fbc932948aaf33aa440"
 metafile = true
 
 [[files]]
-file = "mods/clem-fishing-2.3.1.jar"
-hash = "8fe7dc10c576183974182811a87509e1c89c51de72806767be12e98fb92fbe88"
+file = "mods/clem-fishing-2.4.0.jar"
+hash = "77ab55b4338a20fe568e1bff1fa1e166fe98c1e3ae84fcee329ea402d900dd53"
 
 [[files]]
 file = "mods/clem-hud-1.9.1.jar"
@@ -502,7 +502,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-mega-showdown.pw.toml"
-hash = "b2b561dbbbeb422a9ab4b8e714db3f1a56c571c3f45536226fc9393e7ee1a82e"
+hash = "fff31a4e1b8891e2d654b3be08a85a8c09083b0203964c1aebb656b8371855fb"
 metafile = true
 
 [[files]]
@@ -768,7 +768,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "055d4e19bfa2296fdbc9742c7818246170d1098527a992cbdac4cde164312a7b"
+hash = "5a7adddfd6e028b591840a9e5c65bb075de3df507c72806d57a29cdbb22bc87f"
 metafile = true
 
 [[files]]
@@ -928,7 +928,7 @@ hash = "a053493fb343d38a4bd83f623e7d28b421709ecfe60120662a5f42e2c9fcbca7"
 
 [[files]]
 file = "mods/owo-lib.pw.toml"
-hash = "31e7b4d016cbdf3f0abbb1ab202cf60e84ff8330ebbf6f043739128fb9133fad"
+hash = "50123c09c4693cf847ac3420fcef7cdb94ba57096b9dbb9f13deabedc8d9f62e"
 metafile = true
 
 [[files]]
