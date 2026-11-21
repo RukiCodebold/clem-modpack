@@ -422,8 +422,8 @@ file = "mods/clem-fishing-2.5.4.jar"
 hash = "bc237d6b9e97d8ba9b1e462b3c61339c03977b9558c149549673ee5e3540e036"
 
 [[files]]
-file = "mods/clem-handbook-1.0.0.jar"
-hash = "74be487892c227406f1b2ca42f0dc21fa7158fe0166e8686e0f3a19ff552b6e0"
+file = "mods/clem-handbook-1.0.1.jar"
+hash = "8c9d04999804c125cff8682d01c904c2b988671767d068501e6d569227bdfffb"
 
 [[files]]
 file = "mods/clem-hud-1.9.1.jar"
