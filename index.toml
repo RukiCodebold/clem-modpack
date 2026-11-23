@@ -418,12 +418,16 @@ hash = "6d511d91e17e09d36b0b0c7065b07eb604146bc9f3df0fbc932948aaf33aa440"
 metafile = true
 
 [[files]]
+file = "mods/clem-crystals-1.1.0.jar"
+hash = "ab13da3930ec6c13baca305403cef9b6bc4c298c16e556096e533aeb59b12ee6"
+
+[[files]]
 file = "mods/clem-fishing-2.5.4.jar"
 hash = "bc237d6b9e97d8ba9b1e462b3c61339c03977b9558c149549673ee5e3540e036"
 
 [[files]]
-file = "mods/clem-handbook-1.2.3.jar"
-hash = "748378dad43d03dd49034f1108473537bf6ccedcf8b1935f8c43ea5ffeed9878"
+file = "mods/clem-handbook-1.3.0.jar"
+hash = "b91baff8688c303d74f50184937c49959965795312f4fcfab7a2e9cb58decb32"
 
 [[files]]
 file = "mods/clem-hud-1.9.1.jar"
