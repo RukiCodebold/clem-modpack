@@ -430,8 +430,8 @@ file = "mods/clem-handbook-1.3.0.jar"
 hash = "b91baff8688c303d74f50184937c49959965795312f4fcfab7a2e9cb58decb32"
 
 [[files]]
-file = "mods/clem-hud-1.9.5.jar"
-hash = "030a1d71c68d97ed27a6cce4e483f90f4dce1fa4b1885d4a2e0a2c73c6cb5217"
+file = "mods/clem-hud-1.9.7.jar"
+hash = "8f2f82cc8de58116e8dab87558d938ef378a9444353463fafe161a9f78d8022a"
 
 [[files]]
 file = "mods/clem-jukebox-style-1.0.0.jar"
@@ -475,7 +475,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-additions.pw.toml"
-hash = "5ddeb6f55fc1e3ccf36bd3733768ff64337e5531b018a05668c7e9d42f3c2b19"
+hash = "81984cd419e2f1f5cae4e226e7f834f20abb894a4a831c06d106eb3a73b76959"
 metafile = true
 
 [[files]]
@@ -550,7 +550,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemonraiddens.pw.toml"
-hash = "ebec5092ba24e35da979350fe266f9183f2da92053a7896952881842a33e5ace"
+hash = "df0caa73114eebf0fc6c703c032a9321723d76f4bfa9fc1ec80715cbbd11e60f"
 metafile = true
 
 [[files]]
@@ -569,7 +569,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "9d9802c9b8af95c7e98356371cad12a2d87b4609c7bafe36c63352e7d448b58c"
+hash = "3e331904b85935623be0af57b1bd308778a6568e7a0556ef6f8c644b4380d864"
 metafile = true
 
 [[files]]
@@ -643,7 +643,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "62b6d7dd6edf043e689b7c925e558bc05156d97549c1f5b94e5144bf6389e5c8"
+hash = "af8e11f163c87aa903a90472e0140e888567ab3e9c556b67dd2172c852feaf15"
 metafile = true
 
 [[files]]
@@ -696,7 +696,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "eabd4c165faa8a9856264145b56860aca7d580af450e65e45d1f35b5505acb46"
+hash = "84e91e0f43463582f0d1931c3ae874070ca32d9f7535a920b9495b0195c42265"
 metafile = true
 
 [[files]]
@@ -716,7 +716,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "5f62f54e16fdc97a0fb21b63a563583f85d141772f6aa99f68d40cd654b7dc35"
+hash = "f9d3e15228374aefc979badb43aced7bfbdce83f4303af53626cd8579d58046c"
 metafile = true
 
 [[files]]
@@ -776,7 +776,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "5a7adddfd6e028b591840a9e5c65bb075de3df507c72806d57a29cdbb22bc87f"
+hash = "abd263a280f60df96585cb014014915100cb45622361281b68f99b390b6ba95c"
 metafile = true
 
 [[files]]
@@ -879,7 +879,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "5b44f9d615e53f911b47b89aec48a255a462023ab25313adeaaeb67ebf77cc43"
+hash = "e2be7d548dd78e01509d47b7f9f995eb49cd941cc49d160d0c08750f881d8fda"
 metafile = true
 
 [[files]]
@@ -971,7 +971,7 @@ metafile = true
 
 [[files]]
 file = "mods/pokemon-fly-transitions.pw.toml"
-hash = "8d03566348330f2e613722a00702a002d58b883d390cafc3238ce8a509b8819b"
+hash = "6e581b1d97a0c21feea11267840ca5350ec119024c27e52064f7872386f7b41c"
 metafile = true
 
 [[files]]
@@ -1006,7 +1006,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "f8c2abb9b0f43207b6fdfd96d9168aa35a4781034179e3a89b47f3f34c193ed9"
+hash = "ee77600f899dc6ac8e8be1c76d4e5c04adc068b3e871cac73456b27856a52a13"
 metafile = true
 
 [[files]]
@@ -1016,7 +1016,7 @@ metafile = true
 
 [[files]]
 file = "mods/rightclickharvest.pw.toml"
-hash = "3a1377a6f6b4b623d127ae7ca5d06d40ffcb91dfc387aed9d39d5c8d7811afca"
+hash = "2a1e47e00aa76764bcd0e9be011ed7fae51a31fcbcca523ed294734f06438150"
 metafile = true
 
 [[files]]
