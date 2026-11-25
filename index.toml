@@ -57,6 +57,10 @@ file = "config/YARL/packs/VanillaTweaks_r815523_MC1.21.x.zip"
 hash = "9f88492be0f29bc91fee4f5ee2b6bc19579536aa5ac0be9b5f176ca7822dd89b"
 
 [[files]]
+file = "config/YARL/packs/clem-mailbox-flags.zip"
+hash = "0c7b803fd05f01917e720bb9fe5827040fb5775523b13b0482c124b0acb31dac"
+
+[[files]]
 file = "config/YARL/packs/cobblesounds.pw.toml"
 hash = "c47bc91ff99e24feefd01bef5a713ee9a1015c85d1b7558989dfd6ab5ba373f0"
 metafile = true
@@ -422,8 +426,8 @@ file = "mods/clem-crystals-1.2.0.jar"
 hash = "be534fba6c3cddd7905330697646bb60d97d212431c5ed356c0cebcc5253e84b"
 
 [[files]]
-file = "mods/clem-fishing-2.5.4.jar"
-hash = "bc237d6b9e97d8ba9b1e462b3c61339c03977b9558c149549673ee5e3540e036"
+file = "mods/clem-fishing-2.6.0.jar"
+hash = "94962860aa9063cdc24ec2b3c3038588d552ad1275abb4675559f4819b8e43b0"
 
 [[files]]
 file = "mods/clem-handbook-1.3.0.jar"
@@ -436,6 +440,10 @@ hash = "af31cf36a51e81e836034085dbaa2a86aa84e4f5b817791fc8ac6e9b6c9bbef8"
 [[files]]
 file = "mods/clem-jukebox-style-1.0.0.jar"
 hash = "b7812a228728c7f78570f77920b1f58796b30156189c9bcc4fc3e603ee39200f"
+
+[[files]]
+file = "mods/clem-pasture-switches-1.0.2.jar"
+hash = "90577a0fa318129aa5b9e480957f85ee43370c9f72773b1d6854c9b34bb3dc09"
 
 [[files]]
 file = "mods/clem-photo-contest-1.7.1.jar"
