@@ -430,8 +430,8 @@ file = "mods/clem-handbook-1.3.0.jar"
 hash = "b91baff8688c303d74f50184937c49959965795312f4fcfab7a2e9cb58decb32"
 
 [[files]]
-file = "mods/clem-hud-1.9.7.jar"
-hash = "8f2f82cc8de58116e8dab87558d938ef378a9444353463fafe161a9f78d8022a"
+file = "mods/clem-hud-1.9.8.jar"
+hash = "c034eb17cc13abb4202cec286bdd3741e14d44071d0a4eab578997f379e81657"
 
 [[files]]
 file = "mods/clem-jukebox-style-1.0.0.jar"
