@@ -983,8 +983,8 @@ hash = "6e581b1d97a0c21feea11267840ca5350ec119024c27e52064f7872386f7b41c"
 metafile = true
 
 [[files]]
-file = "mods/pokemon-forms-1.9.0.jar"
-hash = "28dcb74285b07c357d91908e8c8b543cdf495507f812f8db60117c1829f57a74"
+file = "mods/pokemon-forms-1.10.0.jar"
+hash = "7ef705e8425aceb95b1e618602ad3bebdce31486d34f1f68523ab61174ba1ac2"
 
 [[files]]
 file = "mods/polymer.pw.toml"
